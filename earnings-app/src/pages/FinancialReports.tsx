@@ -37,12 +37,12 @@ export default function FinancialReports() {
   };
 
   useEffect(() => {
-    fetch("/earnings_calendar.json")
+    fetch(`${import.meta.env.BASE_URL}earnings_calendar.json`)
       .then((res) => res.json())
       .then(setCalendarData)
       .catch(console.error);
 
-    fetch("/earnings_reactions.json")
+      fetch(`${import.meta.env.BASE_URL}earnings_reactions.json`)
       .then((res) => res.json())
       .then(setReactionsData)
       .catch(console.error);

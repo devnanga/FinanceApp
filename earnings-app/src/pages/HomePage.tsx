@@ -14,7 +14,7 @@ export default function Homepage() {
   
     // Load JSON from public folder
     useEffect(() => {
-      fetch("/earnings_calendar.json")
+        fetch(`${import.meta.env.BASE_URL}earnings_calendar.json`)
         .then((res) => res.json())
         .then((data) => setEarningsData(data))
         .catch((err) => console.error("Error loading earnings data:", err));
