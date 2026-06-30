@@ -2,10 +2,10 @@
   {
     "Ticker": "ABM",
     "Earnings Date": "2026-06-05",
-    "Close Before": 39.47999954223633,
-    "Close DayOf": null,
+    "Close Before": 39.88000106811523,
+    "Close DayOf": 42.54000091552734,
     "Close After": null,
-    "% Before\u2192DayOf": null,
+    "% Before\u2192DayOf": 6.67,
     "% DayOf\u2192After": null,
     "% Before\u2192After": null
   },
@@ -70,12 +70,12 @@
     "% Before\u2192After": -6.87
   },
   {
-    "Ticker": "ABM",
-    "Earnings Date": "2024-09-06",
-    "Close Before": 56.09999847412109,
-    "Close DayOf": 51.29000091552734,
+    "Ticker": "ACN",
+    "Earnings Date": "2026-06-18",
+    "Close Before": 156.0099945068359,
+    "Close DayOf": 127.9800033569336,
     "Close After": null,
-    "% Before\u2192DayOf": -8.57,
+    "% Before\u2192DayOf": -17.97,
     "% DayOf\u2192After": null,
     "% Before\u2192After": null
   },
@@ -140,14 +140,14 @@
     "% Before\u2192After": 5.4
   },
   {
-    "Ticker": "ACN",
-    "Earnings Date": "2024-09-26",
-    "Close Before": 337.0499877929688,
-    "Close DayOf": 355.8099975585938,
-    "Close After": 349.7000122070312,
-    "% Before\u2192DayOf": 5.57,
-    "% DayOf\u2192After": -1.72,
-    "% Before\u2192After": 3.75
+    "Ticker": "ADBE",
+    "Earnings Date": "2026-06-11",
+    "Close Before": 233.3800048828125,
+    "Close DayOf": 218.8000030517578,
+    "Close After": 204.0200042724609,
+    "% Before\u2192DayOf": -6.25,
+    "% DayOf\u2192After": -6.76,
+    "% Before\u2192After": -12.58
   },
   {
     "Ticker": "ADBE",
@@ -210,14 +210,84 @@
     "% Before\u2192After": -13.24
   },
   {
-    "Ticker": "ADBE",
-    "Earnings Date": "2024-09-12",
-    "Close Before": 580.3800048828125,
-    "Close DayOf": 586.5499877929688,
-    "Close After": 536.8699951171875,
-    "% Before\u2192DayOf": 1.06,
-    "% DayOf\u2192After": -8.47,
-    "% Before\u2192After": -7.5
+    "Ticker": "AGX",
+    "Earnings Date": "2026-06-04",
+    "Close Before": 686.3699951171875,
+    "Close DayOf": 689.4299926757812,
+    "Close After": 694.719970703125,
+    "% Before\u2192DayOf": 0.45,
+    "% DayOf\u2192After": 0.77,
+    "% Before\u2192After": 1.22
+  },
+  {
+    "Ticker": "AGX",
+    "Earnings Date": "2026-03-26",
+    "Close Before": 437.4800109863281,
+    "Close DayOf": 410.8500061035156,
+    "Close After": 566.6199951171875,
+    "% Before\u2192DayOf": -6.09,
+    "% DayOf\u2192After": 37.91,
+    "% Before\u2192After": 29.52
+  },
+  {
+    "Ticker": "AGX",
+    "Earnings Date": "2025-12-04",
+    "Close Before": 351.0899963378906,
+    "Close DayOf": 356.3900146484375,
+    "Close After": 313.7000122070312,
+    "% Before\u2192DayOf": 1.51,
+    "% DayOf\u2192After": -11.98,
+    "% Before\u2192After": -10.65
+  },
+  {
+    "Ticker": "AGX",
+    "Earnings Date": "2025-09-04",
+    "Close Before": 227.0299987792969,
+    "Close DayOf": 237.8300018310547,
+    "Close After": 211.5099945068359,
+    "% Before\u2192DayOf": 4.76,
+    "% DayOf\u2192After": -11.07,
+    "% Before\u2192After": -6.84
+  },
+  {
+    "Ticker": "AGX",
+    "Earnings Date": "2025-06-04",
+    "Close Before": 218.7200012207031,
+    "Close DayOf": 217.8000030517578,
+    "Close After": 235.25,
+    "% Before\u2192DayOf": -0.42,
+    "% DayOf\u2192After": 8.01,
+    "% Before\u2192After": 7.56
+  },
+  {
+    "Ticker": "AGX",
+    "Earnings Date": "2025-03-27",
+    "Close Before": 119.5199966430664,
+    "Close DayOf": 115.2300033569336,
+    "Close After": 138.1199951171875,
+    "% Before\u2192DayOf": -3.59,
+    "% DayOf\u2192After": 19.86,
+    "% Before\u2192After": 15.56
+  },
+  {
+    "Ticker": "AGX",
+    "Earnings Date": "2024-12-05",
+    "Close Before": 148.9799957275391,
+    "Close DayOf": 148.8200073242188,
+    "Close After": 147.1199951171875,
+    "% Before\u2192DayOf": -0.11,
+    "% DayOf\u2192After": -1.14,
+    "% Before\u2192After": -1.25
+  },
+  {
+    "Ticker": "ASO",
+    "Earnings Date": "2026-06-09",
+    "Close Before": 51.66999816894531,
+    "Close DayOf": 50.36999893188477,
+    "Close After": 49.88000106811523,
+    "% Before\u2192DayOf": -2.52,
+    "% DayOf\u2192After": -0.97,
+    "% Before\u2192After": -3.46
   },
   {
     "Ticker": "ASO",
@@ -280,14 +350,14 @@
     "% Before\u2192After": 8.15
   },
   {
-    "Ticker": "ASO",
-    "Earnings Date": "2024-09-10",
-    "Close Before": 52.63999938964844,
-    "Close DayOf": 55.38000106811523,
-    "Close After": 54.70999908447266,
-    "% Before\u2192DayOf": 5.21,
-    "% DayOf\u2192After": -1.21,
-    "% Before\u2192After": 3.93
+    "Ticker": "ATEX",
+    "Earnings Date": "2026-06-10",
+    "Close Before": 64.55000305175781,
+    "Close DayOf": 64.77999877929688,
+    "Close After": 81.44000244140625,
+    "% Before\u2192DayOf": 0.36,
+    "% DayOf\u2192After": 25.72,
+    "% Before\u2192After": 26.17
   },
   {
     "Ticker": "ATEX",
@@ -350,24 +420,84 @@
     "% Before\u2192After": -5.48
   },
   {
-    "Ticker": "ATEX",
-    "Earnings Date": "2024-08-06",
-    "Close Before": 37.11000061035156,
-    "Close DayOf": 37.90000152587891,
-    "Close After": 37.02999877929688,
-    "% Before\u2192DayOf": 2.13,
-    "% DayOf\u2192After": -2.3,
-    "% Before\u2192After": -0.22
+    "Ticker": "AVAV",
+    "Earnings Date": "2026-06-29",
+    "Close Before": null,
+    "Close DayOf": 139.0,
+    "Close After": 168.5050048828125,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 21.23,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "AVAV",
+    "Earnings Date": "2026-03-10",
+    "Close Before": 227.2899932861328,
+    "Close DayOf": 221.5700073242188,
+    "Close After": 207.7299957275391,
+    "% Before\u2192DayOf": -2.52,
+    "% DayOf\u2192After": -6.25,
+    "% Before\u2192After": -8.61
+  },
+  {
+    "Ticker": "AVAV",
+    "Earnings Date": "2025-12-09",
+    "Close Before": 282.4700012207031,
+    "Close DayOf": 281.4200134277344,
+    "Close After": 245.25,
+    "% Before\u2192DayOf": -0.37,
+    "% DayOf\u2192After": -12.85,
+    "% Before\u2192After": -13.18
+  },
+  {
+    "Ticker": "AVAV",
+    "Earnings Date": "2025-09-09",
+    "Close Before": 236.9100036621094,
+    "Close DayOf": 230.9900054931641,
+    "Close After": 247.0500030517578,
+    "% Before\u2192DayOf": -2.5,
+    "% DayOf\u2192After": 6.95,
+    "% Before\u2192After": 4.28
+  },
+  {
+    "Ticker": "AVAV",
+    "Earnings Date": "2025-06-24",
+    "Close Before": 191.2299957275391,
+    "Close DayOf": 193.2799987792969,
+    "Close After": 234.9400024414062,
+    "% Before\u2192DayOf": 1.07,
+    "% DayOf\u2192After": 21.55,
+    "% Before\u2192After": 22.86
+  },
+  {
+    "Ticker": "AVAV",
+    "Earnings Date": "2025-03-04",
+    "Close Before": 142.6300048828125,
+    "Close DayOf": 141.8999938964844,
+    "Close After": 135.6900024414062,
+    "% Before\u2192DayOf": -0.51,
+    "% DayOf\u2192After": -4.38,
+    "% Before\u2192After": -4.87
+  },
+  {
+    "Ticker": "AVAV",
+    "Earnings Date": "2024-12-04",
+    "Close Before": 193.1000061035156,
+    "Close DayOf": 196.8899993896484,
+    "Close After": 165.6199951171875,
+    "% Before\u2192DayOf": 1.96,
+    "% DayOf\u2192After": -15.88,
+    "% Before\u2192After": -14.23
   },
   {
     "Ticker": "AVGO",
     "Earnings Date": "2026-06-03",
     "Close Before": 481.5700073242188,
     "Close DayOf": 479.2300109863281,
-    "Close After": 419.3270874023438,
+    "Close After": 418.9100036621094,
     "% Before\u2192DayOf": -0.49,
-    "% DayOf\u2192After": -12.5,
-    "% Before\u2192After": -12.92
+    "% DayOf\u2192After": -12.59,
+    "% Before\u2192After": -13.01
   },
   {
     "Ticker": "AVGO",
@@ -430,6 +560,86 @@
     "% Before\u2192After": 22.71
   },
   {
+    "Ticker": "AVO",
+    "Earnings Date": "2026-06-08",
+    "Close Before": null,
+    "Close DayOf": 10.10999965667725,
+    "Close After": 10.86999988555908,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 7.52,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "AVO",
+    "Earnings Date": "2026-03-12",
+    "Close Before": 13.31999969482422,
+    "Close DayOf": 13.22999954223633,
+    "Close After": 12.14999961853027,
+    "% Before\u2192DayOf": -0.68,
+    "% DayOf\u2192After": -8.16,
+    "% Before\u2192After": -8.78
+  },
+  {
+    "Ticker": "AVO",
+    "Earnings Date": "2025-12-18",
+    "Close Before": 13.14000034332275,
+    "Close DayOf": 13.13000011444092,
+    "Close After": 13.19999980926514,
+    "% Before\u2192DayOf": -0.08,
+    "% DayOf\u2192After": 0.53,
+    "% Before\u2192After": 0.46
+  },
+  {
+    "Ticker": "AVO",
+    "Earnings Date": "2025-09-08",
+    "Close Before": null,
+    "Close DayOf": 12.86999988555908,
+    "Close After": 13.07999992370605,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 1.63,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "AVO",
+    "Earnings Date": "2025-06-05",
+    "Close Before": 10.57999992370605,
+    "Close DayOf": 10.5,
+    "Close After": 11.02499961853027,
+    "% Before\u2192DayOf": -0.76,
+    "% DayOf\u2192After": 5.0,
+    "% Before\u2192After": 4.21
+  },
+  {
+    "Ticker": "AVO",
+    "Earnings Date": "2025-03-10",
+    "Close Before": null,
+    "Close DayOf": 11.8100004196167,
+    "Close After": 10.25,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -13.21,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "AVO",
+    "Earnings Date": "2024-12-19",
+    "Close Before": 12.60000038146973,
+    "Close DayOf": 12.31999969482422,
+    "Close After": 14.44999980926514,
+    "% Before\u2192DayOf": -2.22,
+    "% DayOf\u2192After": 17.29,
+    "% Before\u2192After": 14.68
+  },
+  {
+    "Ticker": "AYI",
+    "Earnings Date": "2026-06-25",
+    "Close Before": 305.510009765625,
+    "Close DayOf": 359.3900146484375,
+    "Close After": 362.4800109863281,
+    "% Before\u2192DayOf": 17.64,
+    "% DayOf\u2192After": 0.86,
+    "% Before\u2192After": 18.65
+  },
+  {
     "Ticker": "AYI",
     "Earnings Date": "2026-04-02",
     "Close Before": 286.9800109863281,
@@ -490,14 +700,84 @@
     "% Before\u2192After": null
   },
   {
-    "Ticker": "AYI",
-    "Earnings Date": "2024-10-01",
-    "Close Before": 275.3900146484375,
-    "Close DayOf": 299.3500061035156,
-    "Close After": 300.2000122070312,
-    "% Before\u2192DayOf": 8.7,
-    "% DayOf\u2192After": 0.28,
-    "% Before\u2192After": 9.01
+    "Ticker": "BB",
+    "Earnings Date": "2026-06-25",
+    "Close Before": 8.619999885559082,
+    "Close DayOf": 10.34000015258789,
+    "Close After": 11.39999961853027,
+    "% Before\u2192DayOf": 19.95,
+    "% DayOf\u2192After": 10.25,
+    "% Before\u2192After": 32.25
+  },
+  {
+    "Ticker": "BB",
+    "Earnings Date": "2026-04-09",
+    "Close Before": 3.529999971389771,
+    "Close DayOf": 3.819999933242798,
+    "Close After": 3.839999914169312,
+    "% Before\u2192DayOf": 8.22,
+    "% DayOf\u2192After": 0.52,
+    "% Before\u2192After": 8.78
+  },
+  {
+    "Ticker": "BB",
+    "Earnings Date": "2025-12-18",
+    "Close Before": 4.260000228881836,
+    "Close DayOf": 4.329999923706055,
+    "Close After": 3.769999980926514,
+    "% Before\u2192DayOf": 1.64,
+    "% DayOf\u2192After": -12.93,
+    "% Before\u2192After": -11.5
+  },
+  {
+    "Ticker": "BB",
+    "Earnings Date": "2025-09-25",
+    "Close Before": 4.269999980926514,
+    "Close DayOf": 4.650000095367432,
+    "Close After": 4.960000038146973,
+    "% Before\u2192DayOf": 8.9,
+    "% DayOf\u2192After": 6.67,
+    "% Before\u2192After": 16.16
+  },
+  {
+    "Ticker": "BB",
+    "Earnings Date": "2025-06-24",
+    "Close Before": 4.320000171661377,
+    "Close DayOf": 4.329999923706055,
+    "Close After": 4.869999885559082,
+    "% Before\u2192DayOf": 0.23,
+    "% DayOf\u2192After": 12.47,
+    "% Before\u2192After": 12.73
+  },
+  {
+    "Ticker": "BB",
+    "Earnings Date": "2025-04-02",
+    "Close Before": 3.730000019073486,
+    "Close DayOf": 3.390000104904175,
+    "Close After": 3.140000104904175,
+    "% Before\u2192DayOf": -9.12,
+    "% DayOf\u2192After": -7.37,
+    "% Before\u2192After": -15.82
+  },
+  {
+    "Ticker": "BB",
+    "Earnings Date": "2024-12-19",
+    "Close Before": 3.009999990463257,
+    "Close DayOf": 2.980000019073486,
+    "Close After": 3.690000057220459,
+    "% Before\u2192DayOf": -1.0,
+    "% DayOf\u2192After": 23.83,
+    "% Before\u2192After": 22.59
+  },
+  {
+    "Ticker": "BF-B",
+    "Earnings Date": "2026-06-04",
+    "Close Before": 24.76000022888184,
+    "Close DayOf": 25.45999908447266,
+    "Close After": 26.15999984741211,
+    "% Before\u2192DayOf": 2.83,
+    "% DayOf\u2192After": 2.75,
+    "% Before\u2192After": 5.65
   },
   {
     "Ticker": "BF-B",
@@ -560,24 +840,14 @@
     "% Before\u2192After": 8.32
   },
   {
-    "Ticker": "BF-B",
-    "Earnings Date": "2024-08-29",
-    "Close Before": 44.84999847412109,
-    "Close DayOf": 45.43999862670898,
-    "Close After": 45.59000015258789,
-    "% Before\u2192DayOf": 1.32,
-    "% DayOf\u2192After": 0.33,
-    "% Before\u2192After": 1.65
-  },
-  {
-    "Ticker": "BF-B",
-    "Earnings Date": "2024-06-05",
-    "Close Before": 45.7400016784668,
-    "Close DayOf": 43.04000091552734,
-    "Close After": 43.91999816894531,
-    "% Before\u2192DayOf": -5.9,
-    "% DayOf\u2192After": 2.04,
-    "% Before\u2192After": -3.98
+    "Ticker": "CASY",
+    "Earnings Date": "2026-06-09",
+    "Close Before": 751.6300048828125,
+    "Close DayOf": 761.1799926757812,
+    "Close After": 915.5999755859375,
+    "% Before\u2192DayOf": 1.27,
+    "% DayOf\u2192After": 20.29,
+    "% Before\u2192After": 21.82
   },
   {
     "Ticker": "CASY",
@@ -640,14 +910,164 @@
     "% Before\u2192After": null
   },
   {
-    "Ticker": "CASY",
-    "Earnings Date": "2024-09-04",
-    "Close Before": 354.9200134277344,
-    "Close DayOf": 354.5199890136719,
-    "Close After": 380.739990234375,
-    "% Before\u2192DayOf": -0.11,
-    "% DayOf\u2192After": 7.4,
-    "% Before\u2192After": 7.27
+    "Ticker": "CBRL",
+    "Earnings Date": "2026-06-09",
+    "Close Before": 34.20999908447266,
+    "Close DayOf": 36.29999923706055,
+    "Close After": 44.4900016784668,
+    "% Before\u2192DayOf": 6.11,
+    "% DayOf\u2192After": 22.56,
+    "% Before\u2192After": 30.05
+  },
+  {
+    "Ticker": "CBRL",
+    "Earnings Date": "2026-03-04",
+    "Close Before": 30.70999908447266,
+    "Close DayOf": 30.6200008392334,
+    "Close After": 31.06999969482422,
+    "% Before\u2192DayOf": -0.29,
+    "% DayOf\u2192After": 1.47,
+    "% Before\u2192After": 1.17
+  },
+  {
+    "Ticker": "CBRL",
+    "Earnings Date": "2025-12-09",
+    "Close Before": 26.6200008392334,
+    "Close DayOf": 27.0,
+    "Close After": 27.95000076293945,
+    "% Before\u2192DayOf": 1.43,
+    "% DayOf\u2192After": 3.52,
+    "% Before\u2192After": 5.0
+  },
+  {
+    "Ticker": "CBRL",
+    "Earnings Date": "2025-09-17",
+    "Close Before": 51.20999908447266,
+    "Close DayOf": 49.59000015258789,
+    "Close After": 45.79999923706055,
+    "% Before\u2192DayOf": -3.16,
+    "% DayOf\u2192After": -7.64,
+    "% Before\u2192After": -10.56
+  },
+  {
+    "Ticker": "CBRL",
+    "Earnings Date": "2025-06-05",
+    "Close Before": 57.77000045776367,
+    "Close DayOf": 53.63000106811523,
+    "Close After": 55.38000106811523,
+    "% Before\u2192DayOf": -7.17,
+    "% DayOf\u2192After": 3.26,
+    "% Before\u2192After": -4.14
+  },
+  {
+    "Ticker": "CBRL",
+    "Earnings Date": "2025-03-06",
+    "Close Before": 40.29000091552734,
+    "Close DayOf": 43.34000015258789,
+    "Close After": 42.81999969482422,
+    "% Before\u2192DayOf": 7.57,
+    "% DayOf\u2192After": -1.2,
+    "% Before\u2192After": 6.28
+  },
+  {
+    "Ticker": "CBRL",
+    "Earnings Date": "2024-12-04",
+    "Close Before": 55.70999908447266,
+    "Close DayOf": 54.72999954223633,
+    "Close After": 51.06000137329102,
+    "% Before\u2192DayOf": -1.76,
+    "% DayOf\u2192After": -6.71,
+    "% Before\u2192After": -8.35
+  },
+  {
+    "Ticker": "CBRS",
+    "Earnings Date": "2026-06-23",
+    "Close Before": 224.4299926757812,
+    "Close DayOf": 226.7200012207031,
+    "Close After": 182.2599945068359,
+    "% Before\u2192DayOf": 1.02,
+    "% DayOf\u2192After": -19.61,
+    "% Before\u2192After": -18.79
+  },
+  {
+    "Ticker": "CCL",
+    "Earnings Date": "2026-06-23",
+    "Close Before": 30.19000053405762,
+    "Close DayOf": 28.71999931335449,
+    "Close After": 28.90999984741211,
+    "% Before\u2192DayOf": -4.87,
+    "% DayOf\u2192After": 0.66,
+    "% Before\u2192After": -4.24
+  },
+  {
+    "Ticker": "CCL",
+    "Earnings Date": "2026-03-27",
+    "Close Before": 25.28000068664551,
+    "Close DayOf": 24.19000053405762,
+    "Close After": null,
+    "% Before\u2192DayOf": -4.31,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "CCL",
+    "Earnings Date": "2025-12-19",
+    "Close Before": 28.34000015258789,
+    "Close DayOf": 31.1200008392334,
+    "Close After": null,
+    "% Before\u2192DayOf": 9.81,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "CCL",
+    "Earnings Date": "2025-09-29",
+    "Close Before": null,
+    "Close DayOf": 29.39999961853027,
+    "Close After": 28.90999984741211,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -1.67,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "CCL",
+    "Earnings Date": "2025-06-24",
+    "Close Before": 24.04000091552734,
+    "Close DayOf": 25.70000076293945,
+    "Close After": 25.47999954223633,
+    "% Before\u2192DayOf": 6.91,
+    "% DayOf\u2192After": -0.86,
+    "% Before\u2192After": 5.99
+  },
+  {
+    "Ticker": "CCL",
+    "Earnings Date": "2025-03-21",
+    "Close Before": 21.20000076293945,
+    "Close DayOf": 20.94000053405762,
+    "Close After": null,
+    "% Before\u2192DayOf": -1.23,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "CCL",
+    "Earnings Date": "2024-12-20",
+    "Close Before": 25.18000030517578,
+    "Close DayOf": 26.79999923706055,
+    "Close After": null,
+    "% Before\u2192DayOf": 6.43,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "CHWY",
+    "Earnings Date": "2026-06-10",
+    "Close Before": 20.39999961853027,
+    "Close DayOf": 19.97999954223633,
+    "Close After": 18.77000045776367,
+    "% Before\u2192DayOf": -2.06,
+    "% DayOf\u2192After": -6.06,
+    "% Before\u2192After": -7.99
   },
   {
     "Ticker": "CHWY",
@@ -710,24 +1130,14 @@
     "% Before\u2192After": -7.58
   },
   {
-    "Ticker": "CHWY",
-    "Earnings Date": "2024-08-28",
-    "Close Before": 25.86000061035156,
-    "Close DayOf": 28.71999931335449,
-    "Close After": 28.70000076293945,
-    "% Before\u2192DayOf": 11.06,
-    "% DayOf\u2192After": -0.07,
-    "% Before\u2192After": 10.98
-  },
-  {
     "Ticker": "CIEN",
     "Earnings Date": "2026-06-04",
     "Close Before": 620.3699951171875,
-    "Close DayOf": 538.9000244140625,
-    "Close After": null,
-    "% Before\u2192DayOf": -13.13,
-    "% DayOf\u2192After": null,
-    "% Before\u2192After": null
+    "Close DayOf": 535.6300048828125,
+    "Close After": 488.2099914550781,
+    "% Before\u2192DayOf": -13.66,
+    "% DayOf\u2192After": -8.85,
+    "% Before\u2192After": -21.3
   },
   {
     "Ticker": "CIEN",
@@ -790,14 +1200,14 @@
     "% Before\u2192After": 22.55
   },
   {
-    "Ticker": "CIEN",
-    "Earnings Date": "2024-09-04",
-    "Close Before": 55.34999847412109,
-    "Close DayOf": 54.93000030517578,
-    "Close After": 52.43000030517578,
-    "% Before\u2192DayOf": -0.76,
-    "% DayOf\u2192After": -4.55,
-    "% Before\u2192After": -5.28
+    "Ticker": "CMC",
+    "Earnings Date": "2026-06-25",
+    "Close Before": 71.27999877929688,
+    "Close DayOf": 74.08999633789062,
+    "Close After": 69.19999694824219,
+    "% Before\u2192DayOf": 3.94,
+    "% DayOf\u2192After": -6.6,
+    "% Before\u2192After": -2.92
   },
   {
     "Ticker": "CMC",
@@ -860,14 +1270,14 @@
     "% Before\u2192After": null
   },
   {
-    "Ticker": "CMC",
-    "Earnings Date": "2024-10-17",
-    "Close Before": 53.66999816894531,
-    "Close DayOf": 56.40999984741211,
-    "Close After": 56.11000061035156,
-    "% Before\u2192DayOf": 5.11,
-    "% DayOf\u2192After": -0.53,
-    "% Before\u2192After": 4.55
+    "Ticker": "CNM",
+    "Earnings Date": "2026-06-10",
+    "Close Before": 52.65000152587891,
+    "Close DayOf": 49.43999862670898,
+    "Close After": 50.06000137329102,
+    "% Before\u2192DayOf": -6.1,
+    "% DayOf\u2192After": 1.25,
+    "% Before\u2192After": -4.92
   },
   {
     "Ticker": "CNM",
@@ -930,24 +1340,84 @@
     "% Before\u2192After": 14.41
   },
   {
-    "Ticker": "CNM",
-    "Earnings Date": "2024-09-04",
-    "Close Before": 46.79999923706055,
-    "Close DayOf": 39.40000152587891,
-    "Close After": 38.0,
-    "% Before\u2192DayOf": -15.81,
-    "% DayOf\u2192After": -3.55,
-    "% Before\u2192After": -18.8
+    "Ticker": "CNXC",
+    "Earnings Date": "2026-06-29",
+    "Close Before": null,
+    "Close DayOf": 25.22999954223633,
+    "Close After": 19.71999931335449,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -21.84,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "CNXC",
+    "Earnings Date": "2026-03-24",
+    "Close Before": 33.04000091552734,
+    "Close DayOf": 26.47999954223633,
+    "Close After": 24.67000007629395,
+    "% Before\u2192DayOf": -19.85,
+    "% DayOf\u2192After": -6.84,
+    "% Before\u2192After": -25.33
+  },
+  {
+    "Ticker": "CNXC",
+    "Earnings Date": "2026-01-13",
+    "Close Before": 40.47999954223633,
+    "Close DayOf": 39.18000030517578,
+    "Close After": 41.41999816894531,
+    "% Before\u2192DayOf": -3.21,
+    "% DayOf\u2192After": 5.72,
+    "% Before\u2192After": 2.32
+  },
+  {
+    "Ticker": "CNXC",
+    "Earnings Date": "2025-09-25",
+    "Close Before": 55.59999847412109,
+    "Close DayOf": 54.9900016784668,
+    "Close After": 47.65999984741211,
+    "% Before\u2192DayOf": -1.1,
+    "% DayOf\u2192After": -13.33,
+    "% Before\u2192After": -14.28
+  },
+  {
+    "Ticker": "CNXC",
+    "Earnings Date": "2025-06-26",
+    "Close Before": 54.16999816894531,
+    "Close DayOf": 55.13000106811523,
+    "Close After": 51.70999908447266,
+    "% Before\u2192DayOf": 1.77,
+    "% DayOf\u2192After": -6.2,
+    "% Before\u2192After": -4.54
+  },
+  {
+    "Ticker": "CNXC",
+    "Earnings Date": "2025-03-26",
+    "Close Before": 45.18000030517578,
+    "Close DayOf": 45.68000030517578,
+    "Close After": 65.04000091552734,
+    "% Before\u2192DayOf": 1.11,
+    "% DayOf\u2192After": 42.38,
+    "% Before\u2192After": 43.96
+  },
+  {
+    "Ticker": "CNXC",
+    "Earnings Date": "2025-01-15",
+    "Close Before": 46.47999954223633,
+    "Close DayOf": 47.47000122070312,
+    "Close After": 48.77999877929688,
+    "% Before\u2192DayOf": 2.13,
+    "% DayOf\u2192After": 2.76,
+    "% Before\u2192After": 4.95
   },
   {
     "Ticker": "COO",
     "Earnings Date": "2026-06-04",
     "Close Before": 60.34000015258789,
-    "Close DayOf": 62.35499954223633,
-    "Close After": null,
-    "% Before\u2192DayOf": 3.34,
-    "% DayOf\u2192After": null,
-    "% Before\u2192After": null
+    "Close DayOf": 62.02000045776367,
+    "Close After": 67.33999633789062,
+    "% Before\u2192DayOf": 2.78,
+    "% DayOf\u2192After": 8.58,
+    "% Before\u2192After": 11.6
   },
   {
     "Ticker": "COO",
@@ -1010,14 +1480,14 @@
     "% Before\u2192After": -5.98
   },
   {
-    "Ticker": "COO",
-    "Earnings Date": "2024-08-28",
-    "Close Before": 94.3499984741211,
-    "Close DayOf": 94.54000091552734,
-    "Close After": 105.7300033569336,
-    "% Before\u2192DayOf": 0.2,
-    "% DayOf\u2192After": 11.84,
-    "% Before\u2192After": 12.06
+    "Ticker": "CPB",
+    "Earnings Date": "2026-06-08",
+    "Close Before": null,
+    "Close DayOf": 21.48999977111816,
+    "Close After": 22.1299991607666,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 2.98,
+    "% Before\u2192After": null
   },
   {
     "Ticker": "CPB",
@@ -1078,16 +1548,6 @@
     "% Before\u2192DayOf": -1.51,
     "% DayOf\u2192After": -6.24,
     "% Before\u2192After": -7.66
-  },
-  {
-    "Ticker": "CPB",
-    "Earnings Date": "2024-08-29",
-    "Close Before": 50.16999816894531,
-    "Close DayOf": 49.25,
-    "Close After": 49.72000122070312,
-    "% Before\u2192DayOf": -1.83,
-    "% DayOf\u2192After": 0.95,
-    "% Before\u2192After": -0.9
   },
   {
     "Ticker": "CRDO",
@@ -1164,10 +1624,10 @@
     "Earnings Date": "2026-06-03",
     "Close Before": 768.9500122070312,
     "Close DayOf": 747.6099853515625,
-    "Close After": 719.8800048828125,
+    "Close After": 719.0900268554688,
     "% Before\u2192DayOf": -2.78,
-    "% DayOf\u2192After": -3.71,
-    "% Before\u2192After": -6.38
+    "% DayOf\u2192After": -3.81,
+    "% Before\u2192After": -6.48
   },
   {
     "Ticker": "CRWD",
@@ -1370,84 +1830,14 @@
     "% Before\u2192After": 2.63
   },
   {
-    "Ticker": "DOCU",
-    "Earnings Date": "2026-06-04",
-    "Close Before": 52.40000152587891,
-    "Close DayOf": 51.20999908447266,
-    "Close After": null,
-    "% Before\u2192DayOf": -2.27,
-    "% DayOf\u2192After": null,
-    "% Before\u2192After": null
-  },
-  {
-    "Ticker": "DOCU",
-    "Earnings Date": "2026-03-17",
-    "Close Before": 46.81999969482422,
-    "Close DayOf": 47.54000091552734,
-    "Close After": 48.90000152587891,
-    "% Before\u2192DayOf": 1.54,
-    "% DayOf\u2192After": 2.86,
-    "% Before\u2192After": 4.44
-  },
-  {
-    "Ticker": "DOCU",
-    "Earnings Date": "2025-12-04",
-    "Close Before": 70.62000274658203,
-    "Close DayOf": 71.0999984741211,
-    "Close After": 65.66999816894531,
-    "% Before\u2192DayOf": 0.68,
-    "% DayOf\u2192After": -7.64,
-    "% Before\u2192After": -7.01
-  },
-  {
-    "Ticker": "DOCU",
-    "Earnings Date": "2025-09-04",
-    "Close Before": 75.9000015258789,
-    "Close DayOf": 76.23999786376953,
-    "Close After": 79.86000061035156,
-    "% Before\u2192DayOf": 0.45,
-    "% DayOf\u2192After": 4.75,
-    "% Before\u2192After": 5.22
-  },
-  {
-    "Ticker": "DOCU",
-    "Earnings Date": "2025-06-05",
-    "Close Before": 93.83999633789062,
-    "Close DayOf": 92.9000015258789,
-    "Close After": 75.27999877929688,
-    "% Before\u2192DayOf": -1.0,
-    "% DayOf\u2192After": -18.97,
-    "% Before\u2192After": -19.78
-  },
-  {
-    "Ticker": "DOCU",
-    "Earnings Date": "2025-03-13",
-    "Close Before": 80.12999725341797,
-    "Close DayOf": 74.69999694824219,
-    "Close After": 85.76000213623047,
-    "% Before\u2192DayOf": -6.78,
-    "% DayOf\u2192After": 14.81,
-    "% Before\u2192After": 7.03
-  },
-  {
-    "Ticker": "DOCU",
-    "Earnings Date": "2024-12-05",
-    "Close Before": 83.98999786376953,
-    "Close DayOf": 83.68000030517578,
-    "Close After": 106.9899978637695,
-    "% Before\u2192DayOf": -0.37,
-    "% DayOf\u2192After": 27.86,
-    "% Before\u2192After": 27.38
-  },
-  {
-    "Ticker": "DOCU",
-    "Earnings Date": "2024-09-05",
-    "Close Before": 57.41999816894531,
-    "Close DayOf": 56.93000030517578,
-    "Close After": 59.18999862670898,
-    "% Before\u2192DayOf": -0.85,
-    "% DayOf\u2192After": 3.97,
-    "% Before\u2192After": 3.08
+    "Ticker": "DRI",
+    "Earnings Date": "2026-06-25",
+    "Close Before": 213.4499969482422,
+    "Close DayOf": 212.7599945068359,
+    "Close After": 213.7200012207031,
+    "% Before\u2192DayOf": -0.32,
+    "% DayOf\u2192After": 0.45,
+    "% Before\u2192After": 0.13
   },
   {
     "Ticker": "DRI",
@@ -1510,154 +1900,84 @@
     "% Before\u2192After": 17.34
   },
   {
-    "Ticker": "DRI",
-    "Earnings Date": "2024-09-19",
-    "Close Before": 159.1399993896484,
-    "Close DayOf": 172.2700042724609,
-    "Close After": 170.1699981689453,
-    "% Before\u2192DayOf": 8.25,
-    "% DayOf\u2192After": -1.22,
-    "% Before\u2192After": 6.93
+    "Ticker": "DRVN",
+    "Earnings Date": "2026-06-11",
+    "Close Before": 13.53999996185303,
+    "Close DayOf": 13.82999992370605,
+    "Close After": 13.43000030517578,
+    "% Before\u2192DayOf": 2.14,
+    "% DayOf\u2192After": -2.89,
+    "% Before\u2192After": -0.81
   },
   {
-    "Ticker": "DSGX",
-    "Earnings Date": "2026-06-03",
-    "Close Before": 77.61000061035156,
-    "Close DayOf": 74.11000061035156,
-    "Close After": 77.81999969482422,
-    "% Before\u2192DayOf": -4.51,
-    "% DayOf\u2192After": 5.01,
-    "% Before\u2192After": 0.27
+    "Ticker": "DRVN",
+    "Earnings Date": "2026-05-19",
+    "Close Before": 14.23999977111816,
+    "Close DayOf": 13.22999954223633,
+    "Close After": 12.98999977111816,
+    "% Before\u2192DayOf": -7.09,
+    "% DayOf\u2192After": -1.81,
+    "% Before\u2192After": -8.78
   },
   {
-    "Ticker": "DSGX",
-    "Earnings Date": "2026-03-11",
-    "Close Before": 70.01000213623047,
-    "Close DayOf": 69.0999984741211,
-    "Close After": 71.9800033569336,
-    "% Before\u2192DayOf": -1.3,
-    "% DayOf\u2192After": 4.17,
-    "% Before\u2192After": 2.81
+    "Ticker": "DRVN",
+    "Earnings Date": "2026-05-07",
+    "Close Before": 13.32999992370605,
+    "Close DayOf": 13.75,
+    "Close After": 13.40999984741211,
+    "% Before\u2192DayOf": 3.15,
+    "% DayOf\u2192After": -2.47,
+    "% Before\u2192After": 0.6
   },
   {
-    "Ticker": "DSGX",
-    "Earnings Date": "2025-12-03",
-    "Close Before": 82.51000213623047,
-    "Close DayOf": 82.95999908447266,
-    "Close After": 94.87000274658203,
-    "% Before\u2192DayOf": 0.55,
-    "% DayOf\u2192After": 14.36,
-    "% Before\u2192After": 14.98
+    "Ticker": "DRVN",
+    "Earnings Date": "2025-11-04",
+    "Close Before": 14.25,
+    "Close DayOf": 15.01000022888184,
+    "Close After": 14.48499965667725,
+    "% Before\u2192DayOf": 5.33,
+    "% DayOf\u2192After": -3.5,
+    "% Before\u2192After": 1.65
   },
   {
-    "Ticker": "DSGX",
-    "Earnings Date": "2025-09-03",
-    "Close Before": 98.4000015258789,
-    "Close DayOf": 99.51000213623047,
-    "Close After": 106.2200012207031,
-    "% Before\u2192DayOf": 1.13,
-    "% DayOf\u2192After": 6.74,
-    "% Before\u2192After": 7.95
+    "Ticker": "DRVN",
+    "Earnings Date": "2025-08-05",
+    "Close Before": 16.98999977111816,
+    "Close DayOf": 17.32999992370605,
+    "Close After": 17.3700008392334,
+    "% Before\u2192DayOf": 2.0,
+    "% DayOf\u2192After": 0.23,
+    "% Before\u2192After": 2.24
   },
   {
-    "Ticker": "DSGX",
-    "Earnings Date": "2025-06-04",
-    "Close Before": 115.0999984741211,
-    "Close DayOf": 115.6100006103516,
-    "Close After": 101.5999984741211,
-    "% Before\u2192DayOf": 0.44,
-    "% DayOf\u2192After": -12.12,
-    "% Before\u2192After": -11.73
+    "Ticker": "DRVN",
+    "Earnings Date": "2025-05-06",
+    "Close Before": 17.32999992370605,
+    "Close DayOf": 18.46999931335449,
+    "Close After": 18.22999954223633,
+    "% Before\u2192DayOf": 6.58,
+    "% DayOf\u2192After": -1.3,
+    "% Before\u2192After": 5.19
   },
   {
-    "Ticker": "DSGX",
-    "Earnings Date": "2025-03-05",
-    "Close Before": 108.879997253418,
-    "Close DayOf": 110.9199981689453,
-    "Close After": 101.7099990844727,
-    "% Before\u2192DayOf": 1.87,
-    "% DayOf\u2192After": -8.3,
-    "% Before\u2192After": -6.59
+    "Ticker": "DRVN",
+    "Earnings Date": "2025-02-25",
+    "Close Before": 15.31999969482422,
+    "Close DayOf": 15.64000034332275,
+    "Close After": 16.35000038146973,
+    "% Before\u2192DayOf": 2.09,
+    "% DayOf\u2192After": 4.54,
+    "% Before\u2192After": 6.72
   },
   {
-    "Ticker": "DSGX",
-    "Earnings Date": "2024-12-03",
-    "Close Before": 115.9700012207031,
-    "Close DayOf": 116.0199966430664,
-    "Close After": 119.9000015258789,
-    "% Before\u2192DayOf": 0.04,
-    "% DayOf\u2192After": 3.34,
-    "% Before\u2192After": 3.39
-  },
-  {
-    "Ticker": "FCEL",
-    "Earnings Date": "2026-03-09",
-    "Close Before": null,
-    "Close DayOf": 7.380000114440918,
-    "Close After": 7.050000190734863,
-    "% Before\u2192DayOf": null,
-    "% DayOf\u2192After": -4.47,
-    "% Before\u2192After": null
-  },
-  {
-    "Ticker": "FCEL",
-    "Earnings Date": "2025-12-18",
-    "Close Before": 7.900000095367432,
-    "Close DayOf": 9.640000343322754,
-    "Close After": 8.34000015258789,
-    "% Before\u2192DayOf": 22.03,
-    "% DayOf\u2192After": -13.49,
-    "% Before\u2192After": 5.57
-  },
-  {
-    "Ticker": "FCEL",
-    "Earnings Date": "2025-09-09",
-    "Close Before": 4.21999979019165,
-    "Close DayOf": 5.179999828338623,
-    "Close After": 5.699999809265137,
-    "% Before\u2192DayOf": 22.75,
-    "% DayOf\u2192After": 10.04,
-    "% Before\u2192After": 35.07
-  },
-  {
-    "Ticker": "FCEL",
-    "Earnings Date": "2025-06-06",
-    "Close Before": 5.199999809265137,
-    "Close DayOf": 6.46999979019165,
-    "Close After": null,
-    "% Before\u2192DayOf": 24.42,
-    "% DayOf\u2192After": null,
-    "% Before\u2192After": null
-  },
-  {
-    "Ticker": "FCEL",
-    "Earnings Date": "2025-03-11",
-    "Close Before": 6.329999923706055,
-    "Close DayOf": 6.559999942779541,
-    "Close After": 6.849999904632568,
-    "% Before\u2192DayOf": 3.63,
-    "% DayOf\u2192After": 4.42,
-    "% Before\u2192After": 8.21
-  },
-  {
-    "Ticker": "FCEL",
-    "Earnings Date": "2024-12-19",
-    "Close Before": 9.819999694824219,
-    "Close DayOf": 9.329999923706055,
-    "Close After": 10.42000007629395,
-    "% Before\u2192DayOf": -4.99,
-    "% DayOf\u2192After": 11.68,
-    "% Before\u2192After": 6.11
-  },
-  {
-    "Ticker": "FCEL",
-    "Earnings Date": "2024-09-05",
-    "Close Before": 12.30000019073486,
-    "Close DayOf": 12.60000038146973,
-    "Close After": 13.19999980926514,
-    "% Before\u2192DayOf": 2.44,
-    "% DayOf\u2192After": 4.76,
-    "% Before\u2192After": 7.32
+    "Ticker": "FDX",
+    "Earnings Date": "2026-06-23",
+    "Close Before": 328.7799987792969,
+    "Close DayOf": 317.239990234375,
+    "Close After": 316.8299865722656,
+    "% Before\u2192DayOf": -3.51,
+    "% DayOf\u2192After": -0.13,
+    "% Before\u2192After": -3.63
   },
   {
     "Ticker": "FDX",
@@ -1720,24 +2040,14 @@
     "% Before\u2192After": 0.94
   },
   {
-    "Ticker": "FDX",
-    "Earnings Date": "2024-09-19",
-    "Close Before": 240.2659149169922,
-    "Close DayOf": 242.0547943115234,
-    "Close After": 205.1893615722656,
-    "% Before\u2192DayOf": 0.74,
-    "% DayOf\u2192After": -15.23,
-    "% Before\u2192After": -14.6
-  },
-  {
     "Ticker": "FIVE",
     "Earnings Date": "2026-06-03",
     "Close Before": 220.3699951171875,
     "Close DayOf": 222.8899993896484,
-    "Close After": 193.0700073242188,
+    "Close After": 192.1699981689453,
     "% Before\u2192DayOf": 1.14,
-    "% DayOf\u2192After": -13.38,
-    "% Before\u2192After": -12.39
+    "% DayOf\u2192After": -13.78,
+    "% Before\u2192After": -12.8
   },
   {
     "Ticker": "FIVE",
@@ -1800,6 +2110,86 @@
     "% Before\u2192After": 12.37
   },
   {
+    "Ticker": "FUL",
+    "Earnings Date": "2026-06-24",
+    "Close Before": 63.11999893188477,
+    "Close DayOf": 64.5999984741211,
+    "Close After": 61.95000076293945,
+    "% Before\u2192DayOf": 2.34,
+    "% DayOf\u2192After": -4.1,
+    "% Before\u2192After": -1.85
+  },
+  {
+    "Ticker": "FUL",
+    "Earnings Date": "2026-03-25",
+    "Close Before": 53.22999954223633,
+    "Close DayOf": 56.70999908447266,
+    "Close After": 56.9900016784668,
+    "% Before\u2192DayOf": 6.54,
+    "% DayOf\u2192After": 0.49,
+    "% Before\u2192After": 7.06
+  },
+  {
+    "Ticker": "FUL",
+    "Earnings Date": "2026-01-14",
+    "Close Before": 66.30000305175781,
+    "Close DayOf": 64.72000122070312,
+    "Close After": 63.4900016784668,
+    "% Before\u2192DayOf": -2.38,
+    "% DayOf\u2192After": -1.9,
+    "% Before\u2192After": -4.24
+  },
+  {
+    "Ticker": "FUL",
+    "Earnings Date": "2025-09-24",
+    "Close Before": 59.61999893188477,
+    "Close DayOf": 59.27000045776367,
+    "Close After": 56.97000122070312,
+    "% Before\u2192DayOf": -0.59,
+    "% DayOf\u2192After": -3.88,
+    "% Before\u2192After": -4.44
+  },
+  {
+    "Ticker": "FUL",
+    "Earnings Date": "2025-06-25",
+    "Close Before": 56.88000106811523,
+    "Close DayOf": 55.95999908447266,
+    "Close After": 61.9900016784668,
+    "% Before\u2192DayOf": -1.62,
+    "% DayOf\u2192After": 10.78,
+    "% Before\u2192After": 8.98
+  },
+  {
+    "Ticker": "FUL",
+    "Earnings Date": "2025-03-26",
+    "Close Before": 53.83000183105469,
+    "Close DayOf": 54.31999969482422,
+    "Close After": 57.61000061035156,
+    "% Before\u2192DayOf": 0.91,
+    "% DayOf\u2192After": 6.06,
+    "% Before\u2192After": 7.02
+  },
+  {
+    "Ticker": "FUL",
+    "Earnings Date": "2025-01-15",
+    "Close Before": 63.72999954223633,
+    "Close DayOf": 64.13999938964844,
+    "Close After": 62.22000122070312,
+    "% Before\u2192DayOf": 0.64,
+    "% DayOf\u2192After": -2.99,
+    "% Before\u2192After": -2.37
+  },
+  {
+    "Ticker": "GHM",
+    "Earnings Date": "2026-06-08",
+    "Close Before": null,
+    "Close DayOf": 95.33999633789062,
+    "Close After": 100.2799987792969,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 5.18,
+    "% Before\u2192After": null
+  },
+  {
     "Ticker": "GHM",
     "Earnings Date": "2026-02-06",
     "Close Before": 73.75,
@@ -1860,22 +2250,12 @@
     "% Before\u2192After": null
   },
   {
-    "Ticker": "GHM",
-    "Earnings Date": "2024-08-07",
-    "Close Before": 29.02000045776367,
-    "Close DayOf": 27.84000015258789,
-    "Close After": 28.70999908447266,
-    "% Before\u2192DayOf": -4.07,
-    "% DayOf\u2192After": 3.12,
-    "% Before\u2192After": -1.07
-  },
-  {
     "Ticker": "GIII",
     "Earnings Date": "2026-06-05",
-    "Close Before": 31.71999931335449,
-    "Close DayOf": null,
+    "Close Before": 32.04000091552734,
+    "Close DayOf": 33.70999908447266,
     "Close After": null,
-    "% Before\u2192DayOf": null,
+    "% Before\u2192DayOf": 5.21,
     "% DayOf\u2192After": null,
     "% Before\u2192After": null
   },
@@ -1938,16 +2318,6 @@
     "% Before\u2192DayOf": 10.42,
     "% DayOf\u2192After": 0.98,
     "% Before\u2192After": 11.49
-  },
-  {
-    "Ticker": "GIII",
-    "Earnings Date": "2024-09-05",
-    "Close Before": 25.04000091552734,
-    "Close DayOf": 30.54999923706055,
-    "Close After": 32.18000030517578,
-    "% Before\u2192DayOf": 22.0,
-    "% DayOf\u2192After": 5.34,
-    "% Before\u2192After": 28.51
   },
   {
     "Ticker": "GME",
@@ -2093,11 +2463,11 @@
     "Ticker": "GWRE",
     "Earnings Date": "2026-06-04",
     "Close Before": 155.0099945068359,
-    "Close DayOf": 153.1699981689453,
-    "Close After": null,
-    "% Before\u2192DayOf": -1.19,
-    "% DayOf\u2192After": null,
-    "% Before\u2192After": null
+    "Close DayOf": 151.1699981689453,
+    "Close After": 136.0599975585938,
+    "% Before\u2192DayOf": -2.48,
+    "% DayOf\u2192After": -10.0,
+    "% Before\u2192After": -12.23
   },
   {
     "Ticker": "GWRE",
@@ -2160,14 +2530,14 @@
     "% Before\u2192After": -14.27
   },
   {
-    "Ticker": "GWRE",
-    "Earnings Date": "2024-09-05",
-    "Close Before": 147.0800018310547,
-    "Close DayOf": 143.9299926757812,
-    "Close After": 161.7200012207031,
-    "% Before\u2192DayOf": -2.14,
-    "% DayOf\u2192After": 12.36,
-    "% Before\u2192After": 9.95
+    "Ticker": "HAWK",
+    "Earnings Date": "2026-06-22",
+    "Close Before": null,
+    "Close DayOf": 22.28000068664551,
+    "Close After": 23.1200008392334,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 3.77,
+    "% Before\u2192After": null
   },
   {
     "Ticker": "HPE",
@@ -2240,14 +2610,84 @@
     "% Before\u2192After": 10.06
   },
   {
+    "Ticker": "ICLR",
+    "Earnings Date": "2026-06-23",
+    "Close Before": 140.7299957275391,
+    "Close DayOf": 142.6699981689453,
+    "Close After": 158.1699981689453,
+    "% Before\u2192DayOf": 1.38,
+    "% DayOf\u2192After": 10.86,
+    "% Before\u2192After": 12.39
+  },
+  {
+    "Ticker": "ICLR",
+    "Earnings Date": "2026-05-27",
+    "Close Before": 113.8499984741211,
+    "Close DayOf": 118.4499969482422,
+    "Close After": 136.8000030517578,
+    "% Before\u2192DayOf": 4.04,
+    "% DayOf\u2192After": 15.49,
+    "% Before\u2192After": 20.16
+  },
+  {
+    "Ticker": "ICLR",
+    "Earnings Date": "2025-10-22",
+    "Close Before": 193.2599945068359,
+    "Close DayOf": 192.6000061035156,
+    "Close After": 180.0,
+    "% Before\u2192DayOf": -0.34,
+    "% DayOf\u2192After": -6.54,
+    "% Before\u2192After": -6.86
+  },
+  {
+    "Ticker": "ICLR",
+    "Earnings Date": "2025-07-23",
+    "Close Before": 161.5,
+    "Close DayOf": 167.8899993896484,
+    "Close After": 195.0099945068359,
+    "% Before\u2192DayOf": 3.96,
+    "% DayOf\u2192After": 16.15,
+    "% Before\u2192After": 20.75
+  },
+  {
+    "Ticker": "ICLR",
+    "Earnings Date": "2025-04-30",
+    "Close Before": 149.3099975585938,
+    "Close DayOf": 151.4400024414062,
+    "Close After": 145.2100067138672,
+    "% Before\u2192DayOf": 1.43,
+    "% DayOf\u2192After": -4.11,
+    "% Before\u2192After": -2.75
+  },
+  {
+    "Ticker": "ICLR",
+    "Earnings Date": "2025-02-19",
+    "Close Before": 188.6499938964844,
+    "Close DayOf": 191.3200073242188,
+    "Close After": 201.8399963378906,
+    "% Before\u2192DayOf": 1.42,
+    "% DayOf\u2192After": 5.5,
+    "% Before\u2192After": 6.99
+  },
+  {
+    "Ticker": "ICLR",
+    "Earnings Date": "2024-10-23",
+    "Close Before": 283.489990234375,
+    "Close DayOf": 280.760009765625,
+    "Close After": 221.7299957275391,
+    "% Before\u2192DayOf": -0.96,
+    "% DayOf\u2192After": -21.03,
+    "% Before\u2192After": -21.79
+  },
+  {
     "Ticker": "IOT",
     "Earnings Date": "2026-06-04",
     "Close Before": 36.34000015258789,
-    "Close DayOf": 36.08000183105469,
-    "Close After": null,
-    "% Before\u2192DayOf": -0.72,
-    "% DayOf\u2192After": null,
-    "% Before\u2192After": null
+    "Close DayOf": 35.20999908447266,
+    "Close After": 34.79999923706055,
+    "% Before\u2192DayOf": -3.11,
+    "% DayOf\u2192After": -1.16,
+    "% Before\u2192After": -4.24
   },
   {
     "Ticker": "IOT",
@@ -2310,14 +2750,14 @@
     "% Before\u2192After": -6.39
   },
   {
-    "Ticker": "IOT",
-    "Earnings Date": "2024-09-05",
-    "Close Before": 38.65999984741211,
-    "Close DayOf": 38.75,
-    "Close After": 44.02000045776367,
-    "% Before\u2192DayOf": 0.23,
-    "% DayOf\u2192After": 13.6,
-    "% Before\u2192After": 13.86
+    "Ticker": "JBL",
+    "Earnings Date": "2026-06-17",
+    "Close Before": 375.510009765625,
+    "Close DayOf": 374.9800109863281,
+    "Close After": 371.8800048828125,
+    "% Before\u2192DayOf": -0.14,
+    "% DayOf\u2192After": -0.83,
+    "% Before\u2192After": -0.97
   },
   {
     "Ticker": "JBL",
@@ -2380,14 +2820,224 @@
     "% Before\u2192After": 4.84
   },
   {
-    "Ticker": "JBL",
-    "Earnings Date": "2024-09-26",
-    "Close Before": 113.4300003051758,
-    "Close DayOf": 126.6500015258789,
-    "Close After": 122.3399963378906,
-    "% Before\u2192DayOf": 11.65,
-    "% DayOf\u2192After": -3.4,
-    "% Before\u2192After": 7.86
+    "Ticker": "JEF",
+    "Earnings Date": "2026-06-24",
+    "Close Before": 60.52000045776367,
+    "Close DayOf": 57.93999862670898,
+    "Close After": 52.63999938964844,
+    "% Before\u2192DayOf": -4.26,
+    "% DayOf\u2192After": -9.15,
+    "% Before\u2192After": -13.02
+  },
+  {
+    "Ticker": "JEF",
+    "Earnings Date": "2026-03-25",
+    "Close Before": 40.54999923706055,
+    "Close DayOf": 39.63999938964844,
+    "Close After": 40.27999877929688,
+    "% Before\u2192DayOf": -2.24,
+    "% DayOf\u2192After": 1.61,
+    "% Before\u2192After": -0.67
+  },
+  {
+    "Ticker": "JEF",
+    "Earnings Date": "2026-01-07",
+    "Close Before": 66.26000213623047,
+    "Close DayOf": 64.66999816894531,
+    "Close After": 61.04999923706055,
+    "% Before\u2192DayOf": -2.4,
+    "% DayOf\u2192After": -5.6,
+    "% Before\u2192After": -7.86
+  },
+  {
+    "Ticker": "JEF",
+    "Earnings Date": "2025-09-29",
+    "Close Before": null,
+    "Close DayOf": 66.66000366210938,
+    "Close After": 65.41999816894531,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -1.86,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "JEF",
+    "Earnings Date": "2025-06-25",
+    "Close Before": 55.34000015258789,
+    "Close DayOf": 55.91999816894531,
+    "Close After": 56.09000015258789,
+    "% Before\u2192DayOf": 1.05,
+    "% DayOf\u2192After": 0.3,
+    "% Before\u2192After": 1.36
+  },
+  {
+    "Ticker": "JEF",
+    "Earnings Date": "2025-03-26",
+    "Close Before": 61.70000076293945,
+    "Close DayOf": 60.29000091552734,
+    "Close After": 54.34999847412109,
+    "% Before\u2192DayOf": -2.29,
+    "% DayOf\u2192After": -9.85,
+    "% Before\u2192After": -11.91
+  },
+  {
+    "Ticker": "JEF",
+    "Earnings Date": "2025-01-08",
+    "Close Before": 79.58000183105469,
+    "Close DayOf": 80.12999725341797,
+    "Close After": null,
+    "% Before\u2192DayOf": 0.69,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "KBH",
+    "Earnings Date": "2026-06-23",
+    "Close Before": 52.52000045776367,
+    "Close DayOf": 52.72999954223633,
+    "Close After": 61.5099983215332,
+    "% Before\u2192DayOf": 0.4,
+    "% DayOf\u2192After": 16.65,
+    "% Before\u2192After": 17.12
+  },
+  {
+    "Ticker": "KBH",
+    "Earnings Date": "2026-03-24",
+    "Close Before": 53.18999862670898,
+    "Close DayOf": 52.93999862670898,
+    "Close After": 52.11999893188477,
+    "% Before\u2192DayOf": -0.47,
+    "% DayOf\u2192After": -1.55,
+    "% Before\u2192After": -2.01
+  },
+  {
+    "Ticker": "KBH",
+    "Earnings Date": "2025-12-18",
+    "Close Before": 62.93999862670898,
+    "Close DayOf": 62.75,
+    "Close After": 57.38999938964844,
+    "% Before\u2192DayOf": -0.3,
+    "% DayOf\u2192After": -8.54,
+    "% Before\u2192After": -8.82
+  },
+  {
+    "Ticker": "KBH",
+    "Earnings Date": "2025-09-24",
+    "Close Before": 62.40999984741211,
+    "Close DayOf": 62.38000106811523,
+    "Close After": 61.9900016784668,
+    "% Before\u2192DayOf": -0.05,
+    "% DayOf\u2192After": -0.63,
+    "% Before\u2192After": -0.67
+  },
+  {
+    "Ticker": "KBH",
+    "Earnings Date": "2025-06-23",
+    "Close Before": null,
+    "Close DayOf": 53.31999969482422,
+    "Close After": 53.08000183105469,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -0.45,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "KBH",
+    "Earnings Date": "2025-03-24",
+    "Close Before": null,
+    "Close DayOf": 61.79000091552734,
+    "Close After": 58.56999969482422,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -5.21,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "KBH",
+    "Earnings Date": "2025-01-13",
+    "Close Before": null,
+    "Close DayOf": 64.08000183105469,
+    "Close After": 67.16999816894531,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 4.82,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "KFY",
+    "Earnings Date": "2026-06-23",
+    "Close Before": 67.7699966430664,
+    "Close DayOf": 71.72000122070312,
+    "Close After": 70.62999725341797,
+    "% Before\u2192DayOf": 5.83,
+    "% DayOf\u2192After": -1.52,
+    "% Before\u2192After": 4.22
+  },
+  {
+    "Ticker": "KFY",
+    "Earnings Date": "2026-03-09",
+    "Close Before": null,
+    "Close DayOf": 62.63000106811523,
+    "Close After": 62.59000015258789,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -0.06,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "KFY",
+    "Earnings Date": "2025-12-09",
+    "Close Before": 64.97000122070312,
+    "Close DayOf": 67.56999969482422,
+    "Close After": 67.43000030517578,
+    "% Before\u2192DayOf": 4.0,
+    "% DayOf\u2192After": -0.21,
+    "% Before\u2192After": 3.79
+  },
+  {
+    "Ticker": "KFY",
+    "Earnings Date": "2025-09-09",
+    "Close Before": 72.51000213623047,
+    "Close DayOf": 72.93000030517578,
+    "Close After": 72.72000122070312,
+    "% Before\u2192DayOf": 0.58,
+    "% DayOf\u2192After": -0.29,
+    "% Before\u2192After": 0.29
+  },
+  {
+    "Ticker": "KFY",
+    "Earnings Date": "2025-06-18",
+    "Close Before": 66.76000213623047,
+    "Close DayOf": 71.06999969482422,
+    "Close After": null,
+    "% Before\u2192DayOf": 6.46,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "KFY",
+    "Earnings Date": "2025-03-11",
+    "Close Before": 62.52000045776367,
+    "Close DayOf": 67.2699966430664,
+    "Close After": 66.47000122070312,
+    "% Before\u2192DayOf": 7.6,
+    "% DayOf\u2192After": -1.19,
+    "% Before\u2192After": 6.32
+  },
+  {
+    "Ticker": "KFY",
+    "Earnings Date": "2024-12-05",
+    "Close Before": 78.6500015258789,
+    "Close DayOf": 72.08000183105469,
+    "Close After": 71.55999755859375,
+    "% Before\u2192DayOf": -8.35,
+    "% DayOf\u2192After": -0.72,
+    "% Before\u2192After": -9.01
+  },
+  {
+    "Ticker": "KMX",
+    "Earnings Date": "2026-06-17",
+    "Close Before": 52.11000061035156,
+    "Close DayOf": 47.43000030517578,
+    "Close After": 53.65999984741211,
+    "% Before\u2192DayOf": -8.98,
+    "% DayOf\u2192After": 13.14,
+    "% Before\u2192After": 2.97
   },
   {
     "Ticker": "KMX",
@@ -2450,14 +3100,14 @@
     "% Before\u2192After": 3.5
   },
   {
-    "Ticker": "KMX",
-    "Earnings Date": "2024-09-26",
-    "Close Before": 74.48999786376953,
-    "Close DayOf": 78.20999908447266,
-    "Close After": 77.31999969482422,
-    "% Before\u2192DayOf": 4.99,
-    "% DayOf\u2192After": -1.14,
-    "% Before\u2192After": 3.8
+    "Ticker": "KR",
+    "Earnings Date": "2026-06-18",
+    "Close Before": 61.81999969482422,
+    "Close DayOf": 56.61000061035156,
+    "Close After": null,
+    "% Before\u2192DayOf": -8.43,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
   },
   {
     "Ticker": "KR",
@@ -2520,14 +3170,14 @@
     "% Before\u2192After": -1.14
   },
   {
-    "Ticker": "KR",
-    "Earnings Date": "2024-09-12",
-    "Close Before": 51.5,
-    "Close DayOf": 55.20000076293945,
-    "Close After": 55.90999984741211,
-    "% Before\u2192DayOf": 7.18,
-    "% DayOf\u2192After": 1.29,
-    "% Before\u2192After": 8.56
+    "Ticker": "LEN",
+    "Earnings Date": "2026-06-11",
+    "Close Before": 89.8499984741211,
+    "Close DayOf": 94.94999694824219,
+    "Close After": 90.30000305175781,
+    "% Before\u2192DayOf": 5.68,
+    "% DayOf\u2192After": -4.9,
+    "% Before\u2192After": 0.5
   },
   {
     "Ticker": "LEN",
@@ -2590,24 +3240,14 @@
     "% Before\u2192After": -8.63
   },
   {
-    "Ticker": "LEN",
-    "Earnings Date": "2024-09-19",
-    "Close Before": 182.4104614257812,
-    "Close DayOf": 186.3020324707031,
-    "Close After": 176.3697967529297,
-    "% Before\u2192DayOf": 2.13,
-    "% DayOf\u2192After": -5.33,
-    "% Before\u2192After": -3.31
-  },
-  {
     "Ticker": "LULU",
     "Earnings Date": "2026-06-04",
     "Close Before": 126.0299987792969,
-    "Close DayOf": 124.6449966430664,
-    "Close After": null,
-    "% Before\u2192DayOf": -1.1,
-    "% DayOf\u2192After": null,
-    "% Before\u2192After": null
+    "Close DayOf": 124.9199981689453,
+    "Close After": 114.2300033569336,
+    "% Before\u2192DayOf": -0.88,
+    "% DayOf\u2192After": -8.56,
+    "% Before\u2192After": -9.36
   },
   {
     "Ticker": "LULU",
@@ -2670,14 +3310,14 @@
     "% Before\u2192After": 16.75
   },
   {
-    "Ticker": "LULU",
-    "Earnings Date": "2024-08-29",
-    "Close Before": 258.8299865722656,
-    "Close DayOf": 259.010009765625,
-    "Close After": 259.4700012207031,
-    "% Before\u2192DayOf": 0.07,
-    "% DayOf\u2192After": 0.18,
-    "% Before\u2192After": 0.25
+    "Ticker": "LZB",
+    "Earnings Date": "2026-06-16",
+    "Close Before": 37.77999877929688,
+    "Close DayOf": 35.06000137329102,
+    "Close After": 40.2400016784668,
+    "% Before\u2192DayOf": -7.2,
+    "% DayOf\u2192After": 14.77,
+    "% Before\u2192After": 6.51
   },
   {
     "Ticker": "LZB",
@@ -2740,24 +3380,14 @@
     "% Before\u2192After": 0.02
   },
   {
-    "Ticker": "LZB",
-    "Earnings Date": "2024-08-20",
-    "Close Before": 42.90999984741211,
-    "Close DayOf": 41.86999893188477,
-    "Close After": 40.40999984741211,
-    "% Before\u2192DayOf": -2.42,
-    "% DayOf\u2192After": -3.49,
-    "% Before\u2192After": -5.83
-  },
-  {
     "Ticker": "MDT",
     "Earnings Date": "2026-06-03",
     "Close Before": 73.75,
     "Close DayOf": 77.94999694824219,
-    "Close After": 81.4749984741211,
+    "Close After": 81.93000030517578,
     "% Before\u2192DayOf": 5.69,
-    "% DayOf\u2192After": 4.52,
-    "% Before\u2192After": 10.47
+    "% DayOf\u2192After": 5.11,
+    "% Before\u2192After": 11.09
   },
   {
     "Ticker": "MDT",
@@ -2820,6 +3450,116 @@
     "% Before\u2192After": -3.97
   },
   {
+    "Ticker": "MH",
+    "Earnings Date": "2026-06-11",
+    "Close Before": 12.80000019073486,
+    "Close DayOf": 12.35999965667725,
+    "Close After": 11.76000022888184,
+    "% Before\u2192DayOf": -3.44,
+    "% DayOf\u2192After": -4.85,
+    "% Before\u2192After": -8.12
+  },
+  {
+    "Ticker": "MH",
+    "Earnings Date": "2026-02-11",
+    "Close Before": 13.0,
+    "Close DayOf": 12.34000015258789,
+    "Close After": 14.3100004196167,
+    "% Before\u2192DayOf": -5.08,
+    "% DayOf\u2192After": 15.96,
+    "% Before\u2192After": 10.08
+  },
+  {
+    "Ticker": "MH",
+    "Earnings Date": "2025-11-12",
+    "Close Before": 11.36999988555908,
+    "Close DayOf": 14.09000015258789,
+    "Close After": 14.97000026702881,
+    "% Before\u2192DayOf": 23.92,
+    "% DayOf\u2192After": 6.25,
+    "% Before\u2192After": 31.66
+  },
+  {
+    "Ticker": "MKC",
+    "Earnings Date": "2026-06-25",
+    "Close Before": 47.59999847412109,
+    "Close DayOf": 48.34999847412109,
+    "Close After": 51.04999923706055,
+    "% Before\u2192DayOf": 1.58,
+    "% DayOf\u2192After": 5.58,
+    "% Before\u2192After": 7.25
+  },
+  {
+    "Ticker": "MKC",
+    "Earnings Date": "2026-03-31",
+    "Close Before": 53.72000122070312,
+    "Close DayOf": 50.43999862670898,
+    "Close After": 48.38000106811523,
+    "% Before\u2192DayOf": -6.11,
+    "% DayOf\u2192After": -4.08,
+    "% Before\u2192After": -9.94
+  },
+  {
+    "Ticker": "MKC",
+    "Earnings Date": "2026-01-22",
+    "Close Before": 66.55999755859375,
+    "Close DayOf": 61.20000076293945,
+    "Close After": 60.79000091552734,
+    "% Before\u2192DayOf": -8.05,
+    "% DayOf\u2192After": -0.67,
+    "% Before\u2192After": -8.67
+  },
+  {
+    "Ticker": "MKC",
+    "Earnings Date": "2025-10-07",
+    "Close Before": 68.29000091552734,
+    "Close DayOf": 65.62000274658203,
+    "Close After": 65.80999755859375,
+    "% Before\u2192DayOf": -3.91,
+    "% DayOf\u2192After": 0.29,
+    "% Before\u2192After": -3.63
+  },
+  {
+    "Ticker": "MKC",
+    "Earnings Date": "2025-06-26",
+    "Close Before": 73.63999938964844,
+    "Close DayOf": 77.56999969482422,
+    "Close After": 76.30999755859375,
+    "% Before\u2192DayOf": 5.34,
+    "% DayOf\u2192After": -1.62,
+    "% Before\u2192After": 3.63
+  },
+  {
+    "Ticker": "MKC",
+    "Earnings Date": "2025-03-25",
+    "Close Before": 80.33999633789062,
+    "Close DayOf": 80.2300033569336,
+    "Close After": 80.87000274658203,
+    "% Before\u2192DayOf": -0.14,
+    "% DayOf\u2192After": 0.8,
+    "% Before\u2192After": 0.66
+  },
+  {
+    "Ticker": "MKC",
+    "Earnings Date": "2025-01-23",
+    "Close Before": 73.23999786376953,
+    "Close DayOf": 74.76000213623047,
+    "Close After": 74.88999938964844,
+    "% Before\u2192DayOf": 2.08,
+    "% DayOf\u2192After": 0.17,
+    "% Before\u2192After": 2.25
+  },
+  {
+    "Ticker": "MLKN",
+    "Earnings Date": "2026-06-24",
+    "Close Before": 16.05999946594238,
+    "Close DayOf": 17.23999977111816,
+    "Close After": 19.30999946594238,
+    "% Before\u2192DayOf": 7.35,
+    "% DayOf\u2192After": 12.01,
+    "% Before\u2192After": 20.24
+  },
+  {
     "Ticker": "MLKN",
     "Earnings Date": "2026-03-25",
     "Close Before": 19.11000061035156,
@@ -2880,14 +3620,14 @@
     "% Before\u2192After": -9.05
   },
   {
-    "Ticker": "MLKN",
-    "Earnings Date": "2024-09-19",
-    "Close Before": 27.69000053405762,
-    "Close DayOf": 27.46999931335449,
-    "Close After": 23.5,
-    "% Before\u2192DayOf": -0.79,
-    "% DayOf\u2192After": -14.45,
-    "% Before\u2192After": -15.13
+    "Ticker": "MTN",
+    "Earnings Date": "2026-06-08",
+    "Close Before": null,
+    "Close DayOf": 137.2100067138672,
+    "Close After": 131.2599945068359,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -4.34,
+    "% Before\u2192After": null
   },
   {
     "Ticker": "MTN",
@@ -2950,14 +3690,14 @@
     "% Before\u2192After": null
   },
   {
-    "Ticker": "MTN",
-    "Earnings Date": "2024-09-26",
-    "Close Before": 182.7599945068359,
-    "Close DayOf": 187.9499969482422,
-    "Close After": 180.6100006103516,
-    "% Before\u2192DayOf": 2.84,
-    "% DayOf\u2192After": -3.91,
-    "% Before\u2192After": -1.18
+    "Ticker": "MU",
+    "Earnings Date": "2026-06-24",
+    "Close Before": 1051.77001953125,
+    "Close DayOf": 1048.510009765625,
+    "Close After": 1213.56005859375,
+    "% Before\u2192DayOf": -0.31,
+    "% DayOf\u2192After": 15.74,
+    "% Before\u2192After": 15.38
   },
   {
     "Ticker": "MU",
@@ -3020,14 +3760,184 @@
     "% Before\u2192After": -19.81
   },
   {
-    "Ticker": "MU",
-    "Earnings Date": "2024-09-25",
-    "Close Before": 94.0,
-    "Close DayOf": 95.7699966430664,
-    "Close After": 109.879997253418,
-    "% Before\u2192DayOf": 1.88,
-    "% DayOf\u2192After": 14.73,
-    "% Before\u2192After": 16.89
+    "Ticker": "NAVN",
+    "Earnings Date": "2026-06-10",
+    "Close Before": 20.68000030517578,
+    "Close DayOf": 20.8700008392334,
+    "Close After": 22.6299991607666,
+    "% Before\u2192DayOf": 0.92,
+    "% DayOf\u2192After": 8.43,
+    "% Before\u2192After": 9.43
+  },
+  {
+    "Ticker": "NAVN",
+    "Earnings Date": "2026-03-25",
+    "Close Before": 8.510000228881836,
+    "Close DayOf": 9.149999618530273,
+    "Close After": 13.10999965667725,
+    "% Before\u2192DayOf": 7.52,
+    "% DayOf\u2192After": 43.28,
+    "% Before\u2192After": 54.05
+  },
+  {
+    "Ticker": "NAVN",
+    "Earnings Date": "2025-12-15",
+    "Close Before": null,
+    "Close DayOf": 14.63500022888184,
+    "Close After": 12.89999961853027,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -11.86,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "NG",
+    "Earnings Date": "2026-06-24",
+    "Close Before": 7.21999979019165,
+    "Close DayOf": 6.199999809265137,
+    "Close After": 6.150000095367432,
+    "% Before\u2192DayOf": -14.13,
+    "% DayOf\u2192After": -0.81,
+    "% Before\u2192After": -14.82
+  },
+  {
+    "Ticker": "NG",
+    "Earnings Date": "2026-04-01",
+    "Close Before": 8.979999542236328,
+    "Close DayOf": 9.359999656677246,
+    "Close After": 9.0600004196167,
+    "% Before\u2192DayOf": 4.23,
+    "% DayOf\u2192After": -3.21,
+    "% Before\u2192After": 0.89
+  },
+  {
+    "Ticker": "NG",
+    "Earnings Date": "2026-01-22",
+    "Close Before": 9.989999771118164,
+    "Close DayOf": 10.48999977111816,
+    "Close After": 9.90999984741211,
+    "% Before\u2192DayOf": 5.01,
+    "% DayOf\u2192After": -5.53,
+    "% Before\u2192After": -0.8
+  },
+  {
+    "Ticker": "NG",
+    "Earnings Date": "2025-10-01",
+    "Close Before": 8.800000190734863,
+    "Close DayOf": 10.11999988555908,
+    "Close After": 9.649999618530273,
+    "% Before\u2192DayOf": 15.0,
+    "% DayOf\u2192After": -4.64,
+    "% Before\u2192After": 9.66
+  },
+  {
+    "Ticker": "NG",
+    "Earnings Date": "2025-06-25",
+    "Close Before": 3.900000095367432,
+    "Close DayOf": 3.700000047683716,
+    "Close After": 4.150000095367432,
+    "% Before\u2192DayOf": -5.13,
+    "% DayOf\u2192After": 12.16,
+    "% Before\u2192After": 6.41
+  },
+  {
+    "Ticker": "NG",
+    "Earnings Date": "2025-04-01",
+    "Close Before": 2.920000076293945,
+    "Close DayOf": 2.980000019073486,
+    "Close After": 2.920000076293945,
+    "% Before\u2192DayOf": 2.05,
+    "% DayOf\u2192After": -2.01,
+    "% Before\u2192After": 0.0
+  },
+  {
+    "Ticker": "NG",
+    "Earnings Date": "2024-10-02",
+    "Close Before": 4.150000095367432,
+    "Close DayOf": 4.199999809265137,
+    "Close After": 3.640000104904175,
+    "% Before\u2192DayOf": 1.2,
+    "% DayOf\u2192After": -13.33,
+    "% Before\u2192After": -12.29
+  },
+  {
+    "Ticker": "NKE",
+    "Earnings Date": "2026-06-30",
+    "Close Before": 41.47999954223633,
+    "Close DayOf": 41.23500061035156,
+    "Close After": null,
+    "% Before\u2192DayOf": -0.59,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "NKE",
+    "Earnings Date": "2026-03-31",
+    "Close Before": 51.2400016784668,
+    "Close DayOf": 52.81999969482422,
+    "Close After": 44.63000106811523,
+    "% Before\u2192DayOf": 3.08,
+    "% DayOf\u2192After": -15.51,
+    "% Before\u2192After": -12.9
+  },
+  {
+    "Ticker": "NKE",
+    "Earnings Date": "2025-12-18",
+    "Close Before": 65.69000244140625,
+    "Close DayOf": 65.62999725341797,
+    "Close After": 58.70999908447266,
+    "% Before\u2192DayOf": -0.09,
+    "% DayOf\u2192After": -10.54,
+    "% Before\u2192After": -10.63
+  },
+  {
+    "Ticker": "NKE",
+    "Earnings Date": "2025-09-30",
+    "Close Before": 69.55000305175781,
+    "Close DayOf": 69.7300033569336,
+    "Close After": 74.19999694824219,
+    "% Before\u2192DayOf": 0.26,
+    "% DayOf\u2192After": 6.41,
+    "% Before\u2192After": 6.69
+  },
+  {
+    "Ticker": "NKE",
+    "Earnings Date": "2025-06-26",
+    "Close Before": 60.83000183105469,
+    "Close DayOf": 62.54000091552734,
+    "Close After": 72.04000091552734,
+    "% Before\u2192DayOf": 2.81,
+    "% DayOf\u2192After": 15.19,
+    "% Before\u2192After": 18.43
+  },
+  {
+    "Ticker": "NKE",
+    "Earnings Date": "2025-03-20",
+    "Close Before": 72.98999786376953,
+    "Close DayOf": 71.86000061035156,
+    "Close After": 67.94000244140625,
+    "% Before\u2192DayOf": -1.55,
+    "% DayOf\u2192After": -5.46,
+    "% Before\u2192After": -6.92
+  },
+  {
+    "Ticker": "NKE",
+    "Earnings Date": "2024-12-19",
+    "Close Before": 76.9000015258789,
+    "Close DayOf": 77.0999984741211,
+    "Close After": 76.94000244140625,
+    "% Before\u2192DayOf": 0.26,
+    "% DayOf\u2192After": -0.21,
+    "% Before\u2192After": 0.05
+  },
+  {
+    "Ticker": "NKE",
+    "Earnings Date": "2024-10-01",
+    "Close Before": 88.4000015258789,
+    "Close DayOf": 89.12999725341797,
+    "Close After": 83.0999984741211,
+    "% Before\u2192DayOf": 0.83,
+    "% DayOf\u2192After": -6.77,
+    "% Before\u2192After": -6.0
   },
   {
     "Ticker": "ODC",
@@ -3101,6 +4011,16 @@
   },
   {
     "Ticker": "ORCL",
+    "Earnings Date": "2026-06-10",
+    "Close Before": 205.8099975585938,
+    "Close DayOf": 201.2599945068359,
+    "Close After": 184.1000061035156,
+    "% Before\u2192DayOf": -2.21,
+    "% DayOf\u2192After": -8.53,
+    "% Before\u2192After": -10.55
+  },
+  {
+    "Ticker": "ORCL",
     "Earnings Date": "2026-03-10",
     "Close Before": 151.5599975585938,
     "Close DayOf": 149.3999938964844,
@@ -3157,16 +4077,6 @@
     "Close After": 177.7400054931641,
     "% Before\u2192DayOf": null,
     "% DayOf\u2192After": -6.67,
-    "% Before\u2192After": null
-  },
-  {
-    "Ticker": "ORCL",
-    "Earnings Date": "2024-09-09",
-    "Close Before": null,
-    "Close DayOf": 139.8899993896484,
-    "Close After": 155.8899993896484,
-    "% Before\u2192DayOf": null,
-    "% DayOf\u2192After": 11.44,
     "% Before\u2192After": null
   },
   {
@@ -3250,84 +4160,94 @@
     "% Before\u2192After": -9.49
   },
   {
-    "Ticker": "PGR",
-    "Earnings Date": "2026-04-15",
-    "Close Before": 196.5899963378906,
-    "Close DayOf": 201.2299957275391,
-    "Close After": 203.4700012207031,
-    "% Before\u2192DayOf": 2.36,
-    "% DayOf\u2192After": 1.11,
-    "% Before\u2192After": 3.5
+    "Ticker": "PAYX",
+    "Earnings Date": "2026-06-24",
+    "Close Before": 97.98999786376953,
+    "Close DayOf": 96.30000305175781,
+    "Close After": 96.72000122070312,
+    "% Before\u2192DayOf": -1.72,
+    "% DayOf\u2192After": 0.44,
+    "% Before\u2192After": -1.3
   },
   {
-    "Ticker": "PGR",
-    "Earnings Date": "2026-01-28",
-    "Close Before": 208.0800018310547,
-    "Close DayOf": 212.7400054931641,
-    "Close After": 208.2599945068359,
-    "% Before\u2192DayOf": 2.24,
-    "% DayOf\u2192After": -2.11,
-    "% Before\u2192After": 0.09
+    "Ticker": "PAYX",
+    "Earnings Date": "2026-03-25",
+    "Close Before": 90.61000061035156,
+    "Close DayOf": 93.36000061035156,
+    "Close After": 93.58999633789062,
+    "% Before\u2192DayOf": 3.03,
+    "% DayOf\u2192After": 0.25,
+    "% Before\u2192After": 3.29
   },
   {
-    "Ticker": "PGR",
-    "Earnings Date": "2025-10-15",
-    "Close Before": 240.3999938964844,
-    "Close DayOf": 226.5,
-    "Close After": 221.7400054931641,
-    "% Before\u2192DayOf": -5.78,
-    "% DayOf\u2192After": -2.1,
-    "% Before\u2192After": -7.76
+    "Ticker": "PAYX",
+    "Earnings Date": "2025-12-19",
+    "Close Before": 114.2399978637695,
+    "Close DayOf": 112.2799987792969,
+    "Close After": null,
+    "% Before\u2192DayOf": -1.72,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
   },
   {
-    "Ticker": "PGR",
-    "Earnings Date": "2025-07-16",
-    "Close Before": 242.1999969482422,
-    "Close DayOf": 246.4600067138672,
-    "Close After": 247.2700042724609,
-    "% Before\u2192DayOf": 1.76,
-    "% DayOf\u2192After": 0.33,
-    "% Before\u2192After": 2.09
+    "Ticker": "PAYX",
+    "Earnings Date": "2025-09-30",
+    "Close Before": 128.5299987792969,
+    "Close DayOf": 126.7600021362305,
+    "Close After": 124.0100021362305,
+    "% Before\u2192DayOf": -1.38,
+    "% DayOf\u2192After": -2.17,
+    "% Before\u2192After": -3.52
   },
   {
-    "Ticker": "PGR",
-    "Earnings Date": "2025-04-16",
-    "Close Before": 276.1099853515625,
-    "Close DayOf": 275.1300048828125,
-    "Close After": 265.4500122070312,
-    "% Before\u2192DayOf": -0.35,
-    "% DayOf\u2192After": -3.52,
-    "% Before\u2192After": -3.86
+    "Ticker": "PAYX",
+    "Earnings Date": "2025-06-25",
+    "Close Before": 152.25,
+    "Close DayOf": 137.9400024414062,
+    "Close After": 141.0099945068359,
+    "% Before\u2192DayOf": -9.4,
+    "% DayOf\u2192After": 2.23,
+    "% Before\u2192After": -7.38
   },
   {
-    "Ticker": "PGR",
-    "Earnings Date": "2025-01-28",
-    "Close Before": 246.9100036621094,
-    "Close DayOf": 245.0500030517578,
-    "Close After": 246.3999938964844,
-    "% Before\u2192DayOf": -0.75,
-    "% DayOf\u2192After": 0.55,
-    "% Before\u2192After": -0.21
+    "Ticker": "PAYX",
+    "Earnings Date": "2025-03-26",
+    "Close Before": 144.1300048828125,
+    "Close DayOf": 150.1900024414062,
+    "Close After": 151.8300018310547,
+    "% Before\u2192DayOf": 4.2,
+    "% DayOf\u2192After": 1.09,
+    "% Before\u2192After": 5.34
   },
   {
-    "Ticker": "PGR",
-    "Earnings Date": "2024-10-15",
-    "Close Before": 251.8800048828125,
-    "Close DayOf": 251.6000061035156,
-    "Close After": 255.3699951171875,
-    "% Before\u2192DayOf": -0.11,
-    "% DayOf\u2192After": 1.5,
-    "% Before\u2192After": 1.39
+    "Ticker": "PAYX",
+    "Earnings Date": "2024-12-19",
+    "Close Before": 135.8600006103516,
+    "Close DayOf": 137.8099975585938,
+    "Close After": 139.5399932861328,
+    "% Before\u2192DayOf": 1.44,
+    "% DayOf\u2192After": 1.26,
+    "% Before\u2192After": 2.71
+  },
+  {
+    "Ticker": "PICS",
+    "Earnings Date": "2026-06-03",
+    "Close Before": 11.17000007629395,
+    "Close DayOf": 9.029999732971191,
+    "Close After": 9.15999984741211,
+    "% Before\u2192DayOf": -19.16,
+    "% DayOf\u2192After": 1.44,
+    "% Before\u2192After": -17.99
   },
   {
     "Ticker": "PL",
     "Earnings Date": "2026-06-04",
     "Close Before": 43.13000106811523,
-    "Close DayOf": 44.47499847412109,
-    "Close After": null,
-    "% Before\u2192DayOf": 3.12,
-    "% DayOf\u2192After": null,
-    "% Before\u2192After": null
+    "Close DayOf": 43.52999877929688,
+    "Close After": 32.22000122070312,
+    "% Before\u2192DayOf": 0.93,
+    "% DayOf\u2192After": -25.98,
+    "% Before\u2192After": -25.3
   },
   {
     "Ticker": "PL",
@@ -3390,24 +4310,94 @@
     "% Before\u2192After": null
   },
   {
-    "Ticker": "PL",
-    "Earnings Date": "2024-09-05",
-    "Close Before": 2.480000019073486,
-    "Close DayOf": 2.480000019073486,
-    "Close After": 1.779999971389771,
-    "% Before\u2192DayOf": 0.0,
-    "% DayOf\u2192After": -28.23,
-    "% Before\u2192After": -28.23
+    "Ticker": "PRGS",
+    "Earnings Date": "2026-06-30",
+    "Close Before": 33.84000015258789,
+    "Close DayOf": 34.08000183105469,
+    "Close After": null,
+    "% Before\u2192DayOf": 0.71,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "PRGS",
+    "Earnings Date": "2026-03-30",
+    "Close Before": null,
+    "Close DayOf": 28.27000045776367,
+    "Close After": 25.64999961853027,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -9.27,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "PRGS",
+    "Earnings Date": "2026-01-20",
+    "Close Before": null,
+    "Close DayOf": 38.59999847412109,
+    "Close After": 42.70000076293945,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 10.62,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "PRGS",
+    "Earnings Date": "2025-09-29",
+    "Close Before": null,
+    "Close DayOf": 42.61000061035156,
+    "Close After": 43.93000030517578,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 3.1,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "PRGS",
+    "Earnings Date": "2025-06-30",
+    "Close Before": null,
+    "Close DayOf": 63.84000015258789,
+    "Close After": 55.52000045776367,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -13.03,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "PRGS",
+    "Earnings Date": "2025-03-31",
+    "Close Before": null,
+    "Close DayOf": 51.5099983215332,
+    "Close After": 57.7599983215332,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 12.13,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "PRGS",
+    "Earnings Date": "2025-01-21",
+    "Close Before": null,
+    "Close DayOf": 63.52000045776367,
+    "Close After": 57.2599983215332,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -9.86,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "PRGS",
+    "Earnings Date": "2024-09-24",
+    "Close Before": 56.88000106811523,
+    "Close DayOf": 57.15000152587891,
+    "Close After": 63.91999816894531,
+    "% Before\u2192DayOf": 0.47,
+    "% DayOf\u2192After": 11.85,
+    "% Before\u2192After": 12.38
   },
   {
     "Ticker": "RBRK",
     "Earnings Date": "2026-06-04",
     "Close Before": 79.45999908447266,
-    "Close DayOf": 77.17500305175781,
-    "Close After": null,
-    "% Before\u2192DayOf": -2.88,
-    "% DayOf\u2192After": null,
-    "% Before\u2192After": null
+    "Close DayOf": 77.0,
+    "Close After": 73.41000366210938,
+    "% Before\u2192DayOf": -3.1,
+    "% DayOf\u2192After": -4.66,
+    "% Before\u2192After": -7.61
   },
   {
     "Ticker": "RBRK",
@@ -3470,14 +4460,144 @@
     "% Before\u2192After": 22.82
   },
   {
-    "Ticker": "RBRK",
-    "Earnings Date": "2024-09-09",
+    "Ticker": "REPL",
+    "Earnings Date": "2026-06-29",
     "Close Before": null,
-    "Close DayOf": 32.06000137329102,
-    "Close After": 31.57999992370605,
+    "Close DayOf": 11.19999980926514,
+    "Close After": 11.63000011444092,
     "% Before\u2192DayOf": null,
-    "% DayOf\u2192After": -1.5,
+    "% DayOf\u2192After": 3.84,
     "% Before\u2192After": null
+  },
+  {
+    "Ticker": "REPL",
+    "Earnings Date": "2026-02-03",
+    "Close Before": 6.974999904632568,
+    "Close DayOf": 7.380000114440918,
+    "Close After": 7.0,
+    "% Before\u2192DayOf": 5.81,
+    "% DayOf\u2192After": -5.15,
+    "% Before\u2192After": 0.36
+  },
+  {
+    "Ticker": "REPL",
+    "Earnings Date": "2025-11-06",
+    "Close Before": 8.579999923706055,
+    "Close DayOf": 8.5,
+    "Close After": 8.3100004196167,
+    "% Before\u2192DayOf": -0.93,
+    "% DayOf\u2192After": -2.24,
+    "% Before\u2192After": -3.15
+  },
+  {
+    "Ticker": "REPL",
+    "Earnings Date": "2025-08-07",
+    "Close Before": 5.5,
+    "Close DayOf": 5.480000019073486,
+    "Close After": 5.289999961853027,
+    "% Before\u2192DayOf": -0.36,
+    "% DayOf\u2192After": -3.47,
+    "% Before\u2192After": -3.82
+  },
+  {
+    "Ticker": "REPL",
+    "Earnings Date": "2025-05-22",
+    "Close Before": 8.460000038146973,
+    "Close DayOf": 8.760000228881836,
+    "Close After": 8.350000381469727,
+    "% Before\u2192DayOf": 3.55,
+    "% DayOf\u2192After": -4.68,
+    "% Before\u2192After": -1.3
+  },
+  {
+    "Ticker": "REPL",
+    "Earnings Date": "2025-02-12",
+    "Close Before": 12.85000038146973,
+    "Close DayOf": 13.78999996185303,
+    "Close After": 14.28999996185303,
+    "% Before\u2192DayOf": 7.32,
+    "% DayOf\u2192After": 3.63,
+    "% Before\u2192After": 11.21
+  },
+  {
+    "Ticker": "REPL",
+    "Earnings Date": "2024-11-12",
+    "Close Before": 12.5,
+    "Close DayOf": 12.1899995803833,
+    "Close After": 11.6899995803833,
+    "% Before\u2192DayOf": -2.48,
+    "% DayOf\u2192After": -4.1,
+    "% Before\u2192After": -6.48
+  },
+  {
+    "Ticker": "RH",
+    "Earnings Date": "2026-06-11",
+    "Close Before": 148.6900024414062,
+    "Close DayOf": 159.3200073242188,
+    "Close After": 153.0399932861328,
+    "% Before\u2192DayOf": 7.15,
+    "% DayOf\u2192After": -3.94,
+    "% Before\u2192After": 2.93
+  },
+  {
+    "Ticker": "RH",
+    "Earnings Date": "2026-03-31",
+    "Close Before": 132.0200042724609,
+    "Close DayOf": 139.8200073242188,
+    "Close After": 112.8499984741211,
+    "% Before\u2192DayOf": 5.91,
+    "% DayOf\u2192After": -19.29,
+    "% Before\u2192After": -14.52
+  },
+  {
+    "Ticker": "RH",
+    "Earnings Date": "2025-12-11",
+    "Close Before": 157.2200012207031,
+    "Close DayOf": 153.3099975585938,
+    "Close After": 162.0099945068359,
+    "% Before\u2192DayOf": -2.49,
+    "% DayOf\u2192After": 5.67,
+    "% Before\u2192After": 3.05
+  },
+  {
+    "Ticker": "RH",
+    "Earnings Date": "2025-09-11",
+    "Close Before": 228.9299926757812,
+    "Close DayOf": 228.1199951171875,
+    "Close After": 217.6199951171875,
+    "% Before\u2192DayOf": -0.35,
+    "% DayOf\u2192After": -4.6,
+    "% Before\u2192After": -4.94
+  },
+  {
+    "Ticker": "RH",
+    "Earnings Date": "2025-06-12",
+    "Close Before": 178.9799957275391,
+    "Close DayOf": 176.8699951171875,
+    "Close After": 189.1199951171875,
+    "% Before\u2192DayOf": -1.18,
+    "% DayOf\u2192After": 6.93,
+    "% Before\u2192After": 5.67
+  },
+  {
+    "Ticker": "RH",
+    "Earnings Date": "2025-04-02",
+    "Close Before": 239.0599975585938,
+    "Close DayOf": 249.3500061035156,
+    "Close After": 149.3899993896484,
+    "% Before\u2192DayOf": 4.3,
+    "% DayOf\u2192After": -40.09,
+    "% Before\u2192After": -37.51
+  },
+  {
+    "Ticker": "RH",
+    "Earnings Date": "2024-12-12",
+    "Close Before": 398.9500122070312,
+    "Close DayOf": 381.3800048828125,
+    "Close After": 446.0400085449219,
+    "% Before\u2192DayOf": -4.4,
+    "% DayOf\u2192After": 16.95,
+    "% Before\u2192After": 11.8
   },
   {
     "Ticker": "SAIC",
@@ -3551,6 +4671,16 @@
   },
   {
     "Ticker": "SAIL",
+    "Earnings Date": "2026-06-09",
+    "Close Before": 17.69000053405762,
+    "Close DayOf": 15.65999984741211,
+    "Close After": 14.71000003814697,
+    "% Before\u2192DayOf": -11.48,
+    "% DayOf\u2192After": -6.07,
+    "% Before\u2192After": -16.85
+  },
+  {
+    "Ticker": "SAIL",
     "Earnings Date": "2026-03-18",
     "Close Before": 14.71000003814697,
     "Close DayOf": 12.47000026702881,
@@ -3588,6 +4718,76 @@
     "% Before\u2192DayOf": 14.66,
     "% DayOf\u2192After": 3.42,
     "% Before\u2192After": 18.58
+  },
+  {
+    "Ticker": "SENEA",
+    "Earnings Date": "2012-08-03",
+    "Close Before": 22.35000038146973,
+    "Close DayOf": 25.05999946594238,
+    "Close After": null,
+    "% Before\u2192DayOf": 12.13,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "SENEA",
+    "Earnings Date": "2012-06-08",
+    "Close Before": 22.6299991607666,
+    "Close DayOf": 23.26000022888184,
+    "Close After": null,
+    "% Before\u2192DayOf": 2.78,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "SENEA",
+    "Earnings Date": "2012-01-26",
+    "Close Before": 28.25,
+    "Close DayOf": 28.96999931335449,
+    "Close After": 28.79000091552734,
+    "% Before\u2192DayOf": 2.55,
+    "% DayOf\u2192After": -0.62,
+    "% Before\u2192After": 1.91
+  },
+  {
+    "Ticker": "SENEA",
+    "Earnings Date": "2011-10-27",
+    "Close Before": 19.04999923706055,
+    "Close DayOf": 21.29999923706055,
+    "Close After": 20.8700008392334,
+    "% Before\u2192DayOf": 11.81,
+    "% DayOf\u2192After": -2.02,
+    "% Before\u2192After": 9.55
+  },
+  {
+    "Ticker": "SENEA",
+    "Earnings Date": "2011-08-03",
+    "Close Before": 25.45999908447266,
+    "Close DayOf": 25.5,
+    "Close After": 23.5,
+    "% Before\u2192DayOf": 0.16,
+    "% DayOf\u2192After": -7.84,
+    "% Before\u2192After": -7.7
+  },
+  {
+    "Ticker": "SENEA",
+    "Earnings Date": "2011-05-26",
+    "Close Before": 26.90999984741211,
+    "Close DayOf": 27.18000030517578,
+    "Close After": 27.31999969482422,
+    "% Before\u2192DayOf": 1.0,
+    "% DayOf\u2192After": 0.52,
+    "% Before\u2192After": 1.52
+  },
+  {
+    "Ticker": "SENEA",
+    "Earnings Date": "2011-01-27",
+    "Close Before": 25.29000091552734,
+    "Close DayOf": 24.75,
+    "Close After": 25.11000061035156,
+    "% Before\u2192DayOf": -2.14,
+    "% DayOf\u2192After": 1.45,
+    "% Before\u2192After": -0.71
   },
   {
     "Ticker": "SIG",
@@ -3661,6 +4861,16 @@
   },
   {
     "Ticker": "SJM",
+    "Earnings Date": "2026-06-09",
+    "Close Before": 101.7699966430664,
+    "Close DayOf": 112.3899993896484,
+    "Close After": 117.0500030517578,
+    "% Before\u2192DayOf": 10.44,
+    "% DayOf\u2192After": 4.15,
+    "% Before\u2192After": 15.01
+  },
+  {
+    "Ticker": "SJM",
     "Earnings Date": "2026-02-26",
     "Close Before": 106.5999984741211,
     "Close DayOf": 116.0,
@@ -3720,14 +4930,174 @@
     "% Before\u2192After": 3.85
   },
   {
-    "Ticker": "SJM",
-    "Earnings Date": "2024-08-28",
-    "Close Before": 120.6999969482422,
-    "Close DayOf": 114.7300033569336,
-    "Close After": 113.7900009155273,
-    "% Before\u2192DayOf": -4.95,
-    "% DayOf\u2192After": -0.82,
-    "% Before\u2192After": -5.72
+    "Ticker": "SNX",
+    "Earnings Date": "2026-06-25",
+    "Close Before": 283.2200012207031,
+    "Close DayOf": 277.6300048828125,
+    "Close After": 266.2699890136719,
+    "% Before\u2192DayOf": -1.97,
+    "% DayOf\u2192After": -4.09,
+    "% Before\u2192After": -5.98
+  },
+  {
+    "Ticker": "SNX",
+    "Earnings Date": "2026-03-31",
+    "Close Before": 160.1300048828125,
+    "Close DayOf": 168.7100067138672,
+    "Close After": 186.2899932861328,
+    "% Before\u2192DayOf": 5.36,
+    "% DayOf\u2192After": 10.42,
+    "% Before\u2192After": 16.34
+  },
+  {
+    "Ticker": "SNX",
+    "Earnings Date": "2026-01-08",
+    "Close Before": 151.0,
+    "Close DayOf": 147.6000061035156,
+    "Close After": 150.4499969482422,
+    "% Before\u2192DayOf": -2.25,
+    "% DayOf\u2192After": 1.93,
+    "% Before\u2192After": -0.36
+  },
+  {
+    "Ticker": "SNX",
+    "Earnings Date": "2025-09-25",
+    "Close Before": 150.3399963378906,
+    "Close DayOf": 159.6900024414062,
+    "Close After": 164.5,
+    "% Before\u2192DayOf": 6.22,
+    "% DayOf\u2192After": 3.01,
+    "% Before\u2192After": 9.42
+  },
+  {
+    "Ticker": "SNX",
+    "Earnings Date": "2025-06-24",
+    "Close Before": 127.5999984741211,
+    "Close DayOf": 136.8800048828125,
+    "Close After": 137.7899932861328,
+    "% Before\u2192DayOf": 7.27,
+    "% DayOf\u2192After": 0.66,
+    "% Before\u2192After": 7.99
+  },
+  {
+    "Ticker": "SNX",
+    "Earnings Date": "2025-03-27",
+    "Close Before": 125.4599990844727,
+    "Close DayOf": 107.5400009155273,
+    "Close After": 104.620002746582,
+    "% Before\u2192DayOf": -14.28,
+    "% DayOf\u2192After": -2.72,
+    "% Before\u2192After": -16.61
+  },
+  {
+    "Ticker": "SNX",
+    "Earnings Date": "2025-01-10",
+    "Close Before": null,
+    "Close DayOf": 134.0099945068359,
+    "Close After": null,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "SPTX",
+    "Earnings Date": "2026-06-08",
+    "Close Before": null,
+    "Close DayOf": 16.20000076293945,
+    "Close After": 17.65999984741211,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 9.01,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "STZ",
+    "Earnings Date": "2026-06-30",
+    "Close Before": 139.6600036621094,
+    "Close DayOf": 136.7649993896484,
+    "Close After": null,
+    "% Before\u2192DayOf": -2.07,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "STZ",
+    "Earnings Date": "2026-04-08",
+    "Close Before": 153.8300018310547,
+    "Close DayOf": 150.2599945068359,
+    "Close After": 163.0700073242188,
+    "% Before\u2192DayOf": -2.32,
+    "% DayOf\u2192After": 8.53,
+    "% Before\u2192After": 6.01
+  },
+  {
+    "Ticker": "STZ",
+    "Earnings Date": "2026-01-07",
+    "Close Before": 143.6499938964844,
+    "Close DayOf": 140.4900054931641,
+    "Close After": 147.9600067138672,
+    "% Before\u2192DayOf": -2.2,
+    "% DayOf\u2192After": 5.32,
+    "% Before\u2192After": 3.0
+  },
+  {
+    "Ticker": "STZ",
+    "Earnings Date": "2025-10-06",
+    "Close Before": null,
+    "Close DayOf": 138.7100067138672,
+    "Close After": 140.1399993896484,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 1.03,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "STZ",
+    "Earnings Date": "2025-07-01",
+    "Close Before": 162.6799926757812,
+    "Close DayOf": 166.4199981689453,
+    "Close After": 173.8699951171875,
+    "% Before\u2192DayOf": 2.3,
+    "% DayOf\u2192After": 4.48,
+    "% Before\u2192After": 6.88
+  },
+  {
+    "Ticker": "STZ",
+    "Earnings Date": "2025-04-09",
+    "Close Before": 170.9600067138672,
+    "Close DayOf": 183.3999938964844,
+    "Close After": 184.75,
+    "% Before\u2192DayOf": 7.28,
+    "% DayOf\u2192After": 0.74,
+    "% Before\u2192After": 8.07
+  },
+  {
+    "Ticker": "STZ",
+    "Earnings Date": "2025-01-10",
+    "Close Before": null,
+    "Close DayOf": 181.8099975585938,
+    "Close After": null,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "STZ",
+    "Earnings Date": "2024-10-03",
+    "Close Before": 255.6699981689453,
+    "Close DayOf": 243.6499938964844,
+    "Close After": 246.6699981689453,
+    "% Before\u2192DayOf": -4.7,
+    "% DayOf\u2192After": 1.24,
+    "% Before\u2192After": -3.52
+  },
+  {
+    "Ticker": "SUNB",
+    "Earnings Date": "2026-06-23",
+    "Close Before": 83.23999786376953,
+    "Close DayOf": 75.41000366210938,
+    "Close After": 73.22000122070312,
+    "% Before\u2192DayOf": -9.41,
+    "% DayOf\u2192After": -2.9,
+    "% Before\u2192After": -12.04
   },
   {
     "Ticker": "SUNB",
@@ -3738,6 +5108,86 @@
     "% Before\u2192DayOf": -1.94,
     "% DayOf\u2192After": 4.18,
     "% Before\u2192After": 2.16
+  },
+  {
+    "Ticker": "TCOM",
+    "Earnings Date": "2026-06-24",
+    "Close Before": 45.5,
+    "Close DayOf": 46.29999923706055,
+    "Close After": 40.4900016784668,
+    "% Before\u2192DayOf": 1.76,
+    "% DayOf\u2192After": -12.55,
+    "% Before\u2192After": -11.01
+  },
+  {
+    "Ticker": "TCOM",
+    "Earnings Date": "2026-02-25",
+    "Close Before": 53.77000045776367,
+    "Close DayOf": 53.65999984741211,
+    "Close After": 52.27000045776367,
+    "% Before\u2192DayOf": -0.2,
+    "% DayOf\u2192After": -2.59,
+    "% Before\u2192After": -2.79
+  },
+  {
+    "Ticker": "TCOM",
+    "Earnings Date": "2025-11-17",
+    "Close Before": null,
+    "Close DayOf": 70.88999938964844,
+    "Close After": 72.44000244140625,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 2.19,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "TCOM",
+    "Earnings Date": "2025-08-27",
+    "Close Before": 64.93000030517578,
+    "Close DayOf": 65.29000091552734,
+    "Close After": 75.02999877929688,
+    "% Before\u2192DayOf": 0.55,
+    "% DayOf\u2192After": 14.92,
+    "% Before\u2192After": 15.56
+  },
+  {
+    "Ticker": "TCOM",
+    "Earnings Date": "2025-05-19",
+    "Close Before": null,
+    "Close DayOf": 67.0999984741211,
+    "Close After": 63.38000106811523,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -5.54,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "TCOM",
+    "Earnings Date": "2025-02-24",
+    "Close Before": null,
+    "Close DayOf": 64.66000366210938,
+    "Close After": 57.29999923706055,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -11.38,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "TCOM",
+    "Earnings Date": "2024-11-18",
+    "Close Before": null,
+    "Close DayOf": 61.31999969482422,
+    "Close After": 62.7400016784668,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": 2.32,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "UEC",
+    "Earnings Date": "2026-06-09",
+    "Close Before": 12.60999965667725,
+    "Close DayOf": 10.64999961853027,
+    "Close After": 9.420000076293945,
+    "% Before\u2192DayOf": -15.54,
+    "% DayOf\u2192After": -11.55,
+    "% Before\u2192After": -25.3
   },
   {
     "Ticker": "UEC",
@@ -3798,16 +5248,6 @@
     "% Before\u2192DayOf": 4.64,
     "% DayOf\u2192After": -0.47,
     "% Before\u2192After": 4.15
-  },
-  {
-    "Ticker": "UEC",
-    "Earnings Date": "2024-09-27",
-    "Close Before": 6.369999885559082,
-    "Close DayOf": 6.369999885559082,
-    "Close After": null,
-    "% Before\u2192DayOf": 0.0,
-    "% DayOf\u2192After": null,
-    "% Before\u2192After": null
   },
   {
     "Ticker": "ULTA",
@@ -3881,6 +5321,16 @@
   },
   {
     "Ticker": "UNFI",
+    "Earnings Date": "2026-06-09",
+    "Close Before": 51.63999938964844,
+    "Close DayOf": 46.33000183105469,
+    "Close After": 50.59000015258789,
+    "% Before\u2192DayOf": -10.28,
+    "% DayOf\u2192After": 9.19,
+    "% Before\u2192After": -2.03
+  },
+  {
+    "Ticker": "UNFI",
     "Earnings Date": "2026-03-10",
     "Close Before": 38.84000015258789,
     "Close DayOf": 37.68000030517578,
@@ -3940,24 +5390,14 @@
     "% Before\u2192After": 13.78
   },
   {
-    "Ticker": "UNFI",
-    "Earnings Date": "2024-10-01",
-    "Close Before": 16.81999969482422,
-    "Close DayOf": 21.95999908447266,
-    "Close After": 21.10000038146973,
-    "% Before\u2192DayOf": 30.56,
-    "% DayOf\u2192After": -3.92,
-    "% Before\u2192After": 25.45
-  },
-  {
     "Ticker": "VEEV",
     "Earnings Date": "2026-06-03",
     "Close Before": 182.9400024414062,
     "Close DayOf": 178.7200012207031,
-    "Close After": 179.1649932861328,
+    "Close After": 178.6000061035156,
     "% Before\u2192DayOf": -2.31,
-    "% DayOf\u2192After": 0.25,
-    "% Before\u2192After": -2.06
+    "% DayOf\u2192After": -0.07,
+    "% Before\u2192After": -2.37
   },
   {
     "Ticker": "VEEV",
@@ -4018,6 +5458,76 @@
     "% Before\u2192DayOf": -2.56,
     "% DayOf\u2192After": 8.11,
     "% Before\u2192After": 5.35
+  },
+  {
+    "Ticker": "VFS",
+    "Earnings Date": "2026-06-08",
+    "Close Before": null,
+    "Close DayOf": 3.049999952316284,
+    "Close After": 3.039999961853027,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -0.33,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "VFS",
+    "Earnings Date": "2026-03-16",
+    "Close Before": null,
+    "Close DayOf": 3.019999980926514,
+    "Close After": 2.950000047683716,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -2.32,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "VFS",
+    "Earnings Date": "2025-11-21",
+    "Close Before": 3.464999914169312,
+    "Close DayOf": 3.230000019073486,
+    "Close After": null,
+    "% Before\u2192DayOf": -6.78,
+    "% DayOf\u2192After": null,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "VFS",
+    "Earnings Date": "2025-09-04",
+    "Close Before": 3.400000095367432,
+    "Close DayOf": 3.329999923706055,
+    "Close After": 3.339999914169312,
+    "% Before\u2192DayOf": -2.06,
+    "% DayOf\u2192After": 0.3,
+    "% Before\u2192After": -1.76
+  },
+  {
+    "Ticker": "VFS",
+    "Earnings Date": "2025-06-09",
+    "Close Before": null,
+    "Close DayOf": 3.569999933242798,
+    "Close After": 3.509999990463257,
+    "% Before\u2192DayOf": null,
+    "% DayOf\u2192After": -1.68,
+    "% Before\u2192After": null
+  },
+  {
+    "Ticker": "VFS",
+    "Earnings Date": "2025-04-24",
+    "Close Before": 3.230000019073486,
+    "Close DayOf": 3.319999933242798,
+    "Close After": 3.240000009536743,
+    "% Before\u2192DayOf": 2.79,
+    "% DayOf\u2192After": -2.41,
+    "% Before\u2192After": 0.31
+  },
+  {
+    "Ticker": "VFS",
+    "Earnings Date": "2024-11-26",
+    "Close Before": 3.930000066757202,
+    "Close DayOf": 3.950000047683716,
+    "Close After": 4.260000228881836,
+    "% Before\u2192DayOf": 0.51,
+    "% DayOf\u2192After": 7.85,
+    "% Before\u2192After": 8.4
   },
   {
     "Ticker": "VSXY",
@@ -4090,6 +5600,86 @@
     "% Before\u2192After": 9.38
   },
   {
+    "Ticker": "WLY",
+    "Earnings Date": "2026-06-16",
+    "Close Before": 43.33000183105469,
+    "Close DayOf": 45.09000015258789,
+    "Close After": 45.41999816894531,
+    "% Before\u2192DayOf": 4.06,
+    "% DayOf\u2192After": 0.73,
+    "% Before\u2192After": 4.82
+  },
+  {
+    "Ticker": "WLY",
+    "Earnings Date": "2026-03-05",
+    "Close Before": 30.45000076293945,
+    "Close DayOf": 34.72999954223633,
+    "Close After": 37.45999908447266,
+    "% Before\u2192DayOf": 14.06,
+    "% DayOf\u2192After": 7.86,
+    "% Before\u2192After": 23.02
+  },
+  {
+    "Ticker": "WLY",
+    "Earnings Date": "2025-12-04",
+    "Close Before": 37.88999938964844,
+    "Close DayOf": 34.61999893188477,
+    "Close After": 32.40000152587891,
+    "% Before\u2192DayOf": -8.63,
+    "% DayOf\u2192After": -6.41,
+    "% Before\u2192After": -14.49
+  },
+  {
+    "Ticker": "WLY",
+    "Earnings Date": "2025-09-04",
+    "Close Before": 39.77000045776367,
+    "Close DayOf": 38.25,
+    "Close After": 39.84999847412109,
+    "% Before\u2192DayOf": -3.82,
+    "% DayOf\u2192After": 4.18,
+    "% Before\u2192After": 0.2
+  },
+  {
+    "Ticker": "WLY",
+    "Earnings Date": "2025-06-17",
+    "Close Before": 37.02999877929688,
+    "Close DayOf": 40.72000122070312,
+    "Close After": 42.54000091552734,
+    "% Before\u2192DayOf": 9.96,
+    "% DayOf\u2192After": 4.47,
+    "% Before\u2192After": 14.88
+  },
+  {
+    "Ticker": "WLY",
+    "Earnings Date": "2025-03-06",
+    "Close Before": 37.90999984741211,
+    "Close DayOf": 43.70000076293945,
+    "Close After": 46.16999816894531,
+    "% Before\u2192DayOf": 15.27,
+    "% DayOf\u2192After": 5.65,
+    "% Before\u2192After": 21.79
+  },
+  {
+    "Ticker": "WLY",
+    "Earnings Date": "2024-12-05",
+    "Close Before": 49.47000122070312,
+    "Close DayOf": 46.36000061035156,
+    "Close After": 45.70000076293945,
+    "% Before\u2192DayOf": -6.29,
+    "% DayOf\u2192After": -1.42,
+    "% Before\u2192After": -7.62
+  },
+  {
+    "Ticker": "WOR",
+    "Earnings Date": "2026-06-23",
+    "Close Before": 61.4900016784668,
+    "Close DayOf": 61.02999877929688,
+    "Close After": 57.29999923706055,
+    "% Before\u2192DayOf": -0.75,
+    "% DayOf\u2192After": -6.11,
+    "% Before\u2192After": -6.81
+  },
+  {
     "Ticker": "WOR",
     "Earnings Date": "2026-03-24",
     "Close Before": 49.15999984741211,
@@ -4150,13 +5740,73 @@
     "% Before\u2192After": 8.95
   },
   {
-    "Ticker": "WOR",
-    "Earnings Date": "2024-09-24",
-    "Close Before": 44.5099983215332,
-    "Close DayOf": 45.29000091552734,
-    "Close After": 42.7400016784668,
-    "% Before\u2192DayOf": 1.75,
-    "% DayOf\u2192After": -5.63,
-    "% Before\u2192After": -3.98
+    "Ticker": "WS",
+    "Earnings Date": "2026-03-25",
+    "Close Before": 33.93000030517578,
+    "Close DayOf": 35.0099983215332,
+    "Close After": 29.79000091552734,
+    "% Before\u2192DayOf": 3.18,
+    "% DayOf\u2192After": -14.91,
+    "% Before\u2192After": -12.2
+  },
+  {
+    "Ticker": "WS",
+    "Earnings Date": "2025-12-17",
+    "Close Before": 35.45999908447266,
+    "Close DayOf": 35.93000030517578,
+    "Close After": 36.02999877929688,
+    "% Before\u2192DayOf": 1.33,
+    "% DayOf\u2192After": 0.28,
+    "% Before\u2192After": 1.61
+  },
+  {
+    "Ticker": "WS",
+    "Earnings Date": "2025-09-24",
+    "Close Before": 33.04999923706055,
+    "Close DayOf": 33.97000122070312,
+    "Close After": 29.1299991607666,
+    "% Before\u2192DayOf": 2.78,
+    "% DayOf\u2192After": -14.25,
+    "% Before\u2192After": -11.86
+  },
+  {
+    "Ticker": "WS",
+    "Earnings Date": "2025-06-25",
+    "Close Before": 25.69000053405762,
+    "Close DayOf": 26.26000022888184,
+    "Close After": 31.63999938964844,
+    "% Before\u2192DayOf": 2.22,
+    "% DayOf\u2192After": 20.49,
+    "% Before\u2192After": 23.16
+  },
+  {
+    "Ticker": "WS",
+    "Earnings Date": "2025-03-19",
+    "Close Before": 26.10000038146973,
+    "Close DayOf": 26.8799991607666,
+    "Close After": 27.8700008392334,
+    "% Before\u2192DayOf": 2.99,
+    "% DayOf\u2192After": 3.68,
+    "% Before\u2192After": 6.78
+  },
+  {
+    "Ticker": "WS",
+    "Earnings Date": "2024-12-18",
+    "Close Before": 39.38000106811523,
+    "Close DayOf": 37.91999816894531,
+    "Close After": 32.45999908447266,
+    "% Before\u2192DayOf": -3.71,
+    "% DayOf\u2192After": -14.4,
+    "% Before\u2192After": -17.57
+  },
+  {
+    "Ticker": "WS",
+    "Earnings Date": "2024-09-25",
+    "Close Before": 36.81999969482422,
+    "Close DayOf": 35.93999862670898,
+    "Close After": 32.0099983215332,
+    "% Before\u2192DayOf": -2.39,
+    "% DayOf\u2192After": -10.93,
+    "% Before\u2192After": -13.06
   }
 ]
