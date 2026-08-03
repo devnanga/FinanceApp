@@ -1,52 +1,1182 @@
 [
   {
-    "Ticker": "AA",
-    "num_earnings": 7,
-    "avg_before_after": -2.37,
-    "median_before_after": -3.26,
-    "avg_abs_move": 5.51,
-    "pct_pos": 28.57,
-    "pct_neg": 71.43,
-    "gamble_flag": "No"
-  },
-  {
-    "Ticker": "BB",
-    "num_earnings": 7,
-    "avg_before_after": 9.31,
-    "median_before_after": 12.73,
-    "avg_abs_move": 17.12,
-    "pct_pos": 71.43,
-    "pct_neg": 28.57,
+    "Ticker": "A",
+    "num_earnings": 5,
+    "avg_before_after": 3.41,
+    "median_before_after": 1.82,
+    "avg_abs_move": 6.63,
+    "pct_pos": 60.0,
+    "pct_neg": 40.0,
     "gamble_flag": "Yes"
   },
   {
-    "Ticker": "BBBY",
+    "Ticker": "AAP",
+    "num_earnings": 6,
+    "avg_before_after": 3.1,
+    "median_before_after": -7.99,
+    "avg_abs_move": 19.75,
+    "pct_pos": 33.33,
+    "pct_neg": 66.67,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "ABNB",
+    "num_earnings": 7,
+    "avg_before_after": 0.98,
+    "median_before_after": 1.15,
+    "avg_abs_move": 4.81,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "ACM",
     "num_earnings": 1,
-    "avg_before_after": -33.09,
-    "median_before_after": -33.09,
-    "avg_abs_move": 33.09,
+    "avg_before_after": -14.32,
+    "median_before_after": -14.32,
+    "avg_abs_move": 14.32,
     "pct_pos": 0.0,
     "pct_neg": 100.0,
     "gamble_flag": "No"
   },
   {
-    "Ticker": "TTD",
+    "Ticker": "ADI",
     "num_earnings": 7,
-    "avg_before_after": -8.99,
-    "median_before_after": -3.97,
-    "avg_abs_move": 16.44,
+    "avg_before_after": 1.79,
+    "median_before_after": 2.31,
+    "avg_abs_move": 6.19,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "AIT",
+    "num_earnings": 7,
+    "avg_before_after": -2.56,
+    "median_before_after": -2.27,
+    "avg_abs_move": 4.81,
     "pct_pos": 28.57,
     "pct_neg": 71.43,
     "gamble_flag": "No"
   },
   {
-    "Ticker": "TTGT",
+    "Ticker": "AMAT",
+    "num_earnings": 7,
+    "avg_before_after": -4.5,
+    "median_before_after": -4.92,
+    "avg_abs_move": 5.76,
+    "pct_pos": 14.29,
+    "pct_neg": 85.71,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "AMCR",
+    "num_earnings": 7,
+    "avg_before_after": 0.9,
+    "median_before_after": 4.45,
+    "avg_abs_move": 7.21,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "AMD",
+    "num_earnings": 7,
+    "avg_before_after": -1.95,
+    "median_before_after": -1.98,
+    "avg_abs_move": 8.63,
+    "pct_pos": 14.29,
+    "pct_neg": 85.71,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "AMGN",
+    "num_earnings": 7,
+    "avg_before_after": 1.51,
+    "median_before_after": 1.32,
+    "avg_abs_move": 4.79,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "ANET",
+    "num_earnings": 6,
+    "avg_before_after": -3.24,
+    "median_before_after": -4.86,
+    "avg_abs_move": 8.56,
+    "pct_pos": 33.33,
+    "pct_neg": 66.67,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "ANF",
+    "num_earnings": 7,
+    "avg_before_after": 4.93,
+    "median_before_after": -0.23,
+    "avg_abs_move": 12.94,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "APP",
+    "num_earnings": 7,
+    "avg_before_after": 12.3,
+    "median_before_after": 11.45,
+    "avg_abs_move": 18.71,
+    "pct_pos": 85.71,
+    "pct_neg": 14.29,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "ARMK",
     "num_earnings": 5,
-    "avg_before_after": 5.34,
-    "median_before_after": 2.52,
-    "avg_abs_move": 7.28,
+    "avg_before_after": 4.85,
+    "median_before_after": 8.74,
+    "avg_abs_move": 8.93,
+    "pct_pos": 60.0,
+    "pct_neg": 40.0,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "AS",
+    "num_earnings": 7,
+    "avg_before_after": 5.97,
+    "median_before_after": 5.98,
+    "avg_abs_move": 8.09,
+    "pct_pos": 71.43,
+    "pct_neg": 28.57,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "ASTS",
+    "num_earnings": 1,
+    "avg_before_after": -13.12,
+    "median_before_after": -13.12,
+    "avg_abs_move": 13.12,
+    "pct_pos": 0.0,
+    "pct_neg": 100.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "ATHM",
+    "num_earnings": 7,
+    "avg_before_after": 1.31,
+    "median_before_after": 0.21,
+    "avg_abs_move": 2.51,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "AXSM",
+    "num_earnings": 1,
+    "avg_before_after": 7.53,
+    "median_before_after": 7.53,
+    "avg_abs_move": 7.53,
+    "pct_pos": 100.0,
+    "pct_neg": 0.0,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "B",
+    "num_earnings": 4,
+    "avg_before_after": 0.32,
+    "median_before_after": -1.04,
+    "avg_abs_move": 3.69,
+    "pct_pos": 25.0,
+    "pct_neg": 75.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "BAP",
+    "num_earnings": 6,
+    "avg_before_after": -0.87,
+    "median_before_after": -0.55,
+    "avg_abs_move": 1.32,
+    "pct_pos": 33.33,
+    "pct_neg": 66.67,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "BBY",
+    "num_earnings": 7,
+    "avg_before_after": 1.35,
+    "median_before_after": -2.4,
+    "avg_abs_move": 9.31,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "BIDU",
+    "num_earnings": 5,
+    "avg_before_after": -3.98,
+    "median_before_after": -5.9,
+    "avg_abs_move": 4.47,
+    "pct_pos": 20.0,
+    "pct_neg": 80.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "BILL",
+    "num_earnings": 7,
+    "avg_before_after": 6.17,
+    "median_before_after": 12.84,
+    "avg_abs_move": 18.07,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "BIRK",
+    "num_earnings": 7,
+    "avg_before_after": -2.6,
+    "median_before_after": -0.86,
+    "avg_abs_move": 4.53,
+    "pct_pos": 28.57,
+    "pct_neg": 71.43,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "BJ",
+    "num_earnings": 4,
+    "avg_before_after": 6.06,
+    "median_before_after": 6.01,
+    "avg_abs_move": 8.08,
+    "pct_pos": 50.0,
+    "pct_neg": 50.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "BMO",
+    "num_earnings": 7,
+    "avg_before_after": 3.67,
+    "median_before_after": 4.17,
+    "avg_abs_move": 3.67,
+    "pct_pos": 85.71,
+    "pct_neg": 14.29,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "BNS",
+    "num_earnings": 6,
+    "avg_before_after": 1.07,
+    "median_before_after": -0.24,
+    "avg_abs_move": 2.35,
+    "pct_pos": 50.0,
+    "pct_neg": 50.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "CAE",
+    "num_earnings": 7,
+    "avg_before_after": -0.2,
+    "median_before_after": -3.03,
+    "avg_abs_move": 7.72,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "CAH",
+    "num_earnings": 6,
+    "avg_before_after": 3.04,
+    "median_before_after": 1.31,
+    "avg_abs_move": 7.37,
+    "pct_pos": 50.0,
+    "pct_neg": 50.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "CAT",
+    "num_earnings": 7,
+    "avg_before_after": 2.21,
+    "median_before_after": 2.13,
+    "avg_abs_move": 5.03,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "CBRS",
+    "num_earnings": 1,
+    "avg_before_after": -18.79,
+    "median_before_after": -18.79,
+    "avg_abs_move": 18.79,
+    "pct_pos": 0.0,
+    "pct_neg": 100.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "CEG",
+    "num_earnings": 3,
+    "avg_before_after": 6.04,
+    "median_before_after": 8.0,
+    "avg_abs_move": 6.57,
+    "pct_pos": 66.67,
+    "pct_neg": 33.33,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "CNQ",
+    "num_earnings": 7,
+    "avg_before_after": 1.0,
+    "median_before_after": -0.69,
+    "avg_abs_move": 3.09,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "COHR",
+    "num_earnings": 7,
+    "avg_before_after": 3.06,
+    "median_before_after": 1.15,
+    "avg_abs_move": 13.06,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "COP",
+    "num_earnings": 7,
+    "avg_before_after": -0.03,
+    "median_before_after": 0.03,
+    "avg_abs_move": 1.91,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "CRWV",
+    "num_earnings": 4,
+    "avg_before_after": -11.97,
+    "median_before_after": -16.51,
+    "avg_abs_move": 13.95,
+    "pct_pos": 25.0,
+    "pct_neg": 75.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "CSCO",
+    "num_earnings": 7,
+    "avg_before_after": 1.89,
+    "median_before_after": 2.26,
+    "avg_abs_move": 6.84,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "CSIQ",
+    "num_earnings": 7,
+    "avg_before_after": -2.83,
+    "median_before_after": -0.5,
+    "avg_abs_move": 10.74,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "CVS",
+    "num_earnings": 7,
+    "avg_before_after": 4.06,
+    "median_before_after": 1.65,
+    "avg_abs_move": 5.97,
+    "pct_pos": 85.71,
+    "pct_neg": 14.29,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "DDOG",
+    "num_earnings": 7,
+    "avg_before_after": 7.95,
+    "median_before_after": 0.3,
+    "avg_abs_move": 13.38,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "DE",
+    "num_earnings": 6,
+    "avg_before_after": 3.19,
+    "median_before_after": 3.8,
+    "avg_abs_move": 6.66,
+    "pct_pos": 66.67,
+    "pct_neg": 33.33,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "DG",
+    "num_earnings": 7,
+    "avg_before_after": 4.02,
+    "median_before_after": 2.63,
+    "avg_abs_move": 8.47,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "DIS",
+    "num_earnings": 6,
+    "avg_before_after": 3.21,
+    "median_before_after": 3.54,
+    "avg_abs_move": 8.2,
+    "pct_pos": 50.0,
+    "pct_neg": 50.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "EAT",
+    "num_earnings": 7,
+    "avg_before_after": 2.37,
+    "median_before_after": 2.13,
+    "avg_abs_move": 10.78,
+    "pct_pos": 71.43,
+    "pct_neg": 28.57,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "EC",
+    "num_earnings": 7,
+    "avg_before_after": 0.96,
+    "median_before_after": 1.71,
+    "avg_abs_move": 3.14,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "EL",
+    "num_earnings": 6,
+    "avg_before_after": -10.8,
+    "median_before_after": -9.62,
+    "avg_abs_move": 10.8,
+    "pct_pos": 0.0,
+    "pct_neg": 100.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "EMA",
+    "num_earnings": 1,
+    "avg_before_after": 1.87,
+    "median_before_after": 1.87,
+    "avg_abs_move": 1.87,
+    "pct_pos": 100.0,
+    "pct_neg": 0.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "ESLT",
+    "num_earnings": 6,
+    "avg_before_after": 4.96,
+    "median_before_after": 5.46,
+    "avg_abs_move": 6.41,
+    "pct_pos": 83.33,
+    "pct_neg": 16.67,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "FERG",
+    "num_earnings": 7,
+    "avg_before_after": 0.99,
+    "median_before_after": -0.66,
+    "avg_abs_move": 6.96,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "FNV",
+    "num_earnings": 4,
+    "avg_before_after": -2.66,
+    "median_before_after": -3.04,
+    "avg_abs_move": 3.18,
+    "pct_pos": 25.0,
+    "pct_neg": 75.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "GDS",
+    "num_earnings": 7,
+    "avg_before_after": -5.04,
+    "median_before_after": 1.3,
+    "avg_abs_move": 10.25,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "GILD",
+    "num_earnings": 7,
+    "avg_before_after": 3.16,
+    "median_before_after": 2.72,
+    "avg_abs_move": 5.07,
+    "pct_pos": 71.43,
+    "pct_neg": 28.57,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "HD",
+    "num_earnings": 7,
+    "avg_before_after": -0.18,
+    "median_before_after": 0.47,
+    "avg_abs_move": 2.45,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "HSAI",
+    "num_earnings": 3,
+    "avg_before_after": -10.14,
+    "median_before_after": -8.0,
+    "avg_abs_move": 10.14,
+    "pct_pos": 0.0,
+    "pct_neg": 100.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "HSBC",
+    "num_earnings": 1,
+    "avg_before_after": 7.53,
+    "median_before_after": 7.53,
+    "avg_abs_move": 7.53,
+    "pct_pos": 100.0,
+    "pct_neg": 0.0,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "HWM",
+    "num_earnings": 7,
+    "avg_before_after": 5.03,
+    "median_before_after": 5.51,
+    "avg_abs_move": 6.2,
+    "pct_pos": 85.71,
+    "pct_neg": 14.29,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "INTU",
+    "num_earnings": 7,
+    "avg_before_after": -0.2,
+    "median_before_after": 1.93,
+    "avg_abs_move": 8.37,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "JBS",
+    "num_earnings": 3,
+    "avg_before_after": 1.94,
+    "median_before_after": 0.76,
+    "avg_abs_move": 4.21,
+    "pct_pos": 66.67,
+    "pct_neg": 33.33,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "JD",
+    "num_earnings": 7,
+    "avg_before_after": 0.31,
+    "median_before_after": -1.93,
+    "avg_abs_move": 4.56,
+    "pct_pos": 28.57,
+    "pct_neg": 71.43,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "KEYS",
+    "num_earnings": 5,
+    "avg_before_after": -0.32,
+    "median_before_after": -0.18,
+    "avg_abs_move": 4.22,
+    "pct_pos": 40.0,
+    "pct_neg": 60.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "KLAR",
+    "num_earnings": 3,
+    "avg_before_after": -10.98,
+    "median_before_after": -12.76,
+    "avg_abs_move": 18.18,
+    "pct_pos": 33.33,
+    "pct_neg": 66.67,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "KSPI",
+    "num_earnings": 5,
+    "avg_before_after": 0.57,
+    "median_before_after": 0.32,
+    "avg_abs_move": 1.5,
+    "pct_pos": 60.0,
+    "pct_neg": 40.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "LGN",
+    "num_earnings": 1,
+    "avg_before_after": -15.7,
+    "median_before_after": -15.7,
+    "avg_abs_move": 15.7,
+    "pct_pos": 0.0,
+    "pct_neg": 100.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "LITE",
+    "num_earnings": 7,
+    "avg_before_after": 6.5,
+    "median_before_after": 4.86,
+    "avg_abs_move": 8.49,
+    "pct_pos": 71.43,
+    "pct_neg": 28.57,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "LLY",
+    "num_earnings": 7,
+    "avg_before_after": -1.07,
+    "median_before_after": 1.73,
+    "avg_abs_move": 8.28,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "LOW",
+    "num_earnings": 7,
+    "avg_before_after": -0.99,
+    "median_before_after": -0.44,
+    "avg_abs_move": 2.51,
+    "pct_pos": 28.57,
+    "pct_neg": 71.43,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "MAR",
+    "num_earnings": 6,
+    "avg_before_after": 2.53,
+    "median_before_after": 2.46,
+    "avg_abs_move": 4.3,
+    "pct_pos": 66.67,
+    "pct_neg": 33.33,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "MCD",
+    "num_earnings": 6,
+    "avg_before_after": -0.41,
+    "median_before_after": -1.02,
+    "avg_abs_move": 2.06,
+    "pct_pos": 33.33,
+    "pct_neg": 66.67,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "MCK",
+    "num_earnings": 7,
+    "avg_before_after": 2.58,
+    "median_before_after": -0.59,
+    "avg_abs_move": 6.05,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "MNST",
+    "num_earnings": 7,
+    "avg_before_after": 4.16,
+    "median_before_after": 2.74,
+    "avg_abs_move": 4.35,
+    "pct_pos": 71.43,
+    "pct_neg": 28.57,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "MRCY",
+    "num_earnings": 6,
+    "avg_before_after": 6.48,
+    "median_before_after": 8.62,
+    "avg_abs_move": 14.52,
+    "pct_pos": 66.67,
+    "pct_neg": 33.33,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "MRK",
+    "num_earnings": 7,
+    "avg_before_after": -0.83,
+    "median_before_after": -0.69,
+    "avg_abs_move": 3.85,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "MUFG",
+    "num_earnings": 4,
+    "avg_before_after": 0.99,
+    "median_before_after": 1.42,
+    "avg_abs_move": 1.72,
+    "pct_pos": 75.0,
+    "pct_neg": 25.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "NBIS",
+    "num_earnings": 6,
+    "avg_before_after": 6.21,
+    "median_before_after": 7.12,
+    "avg_abs_move": 14.65,
+    "pct_pos": 66.67,
+    "pct_neg": 33.33,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "NDSN",
+    "num_earnings": 7,
+    "avg_before_after": 0.25,
+    "median_before_after": 0.42,
+    "avg_abs_move": 3.36,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "NET",
+    "num_earnings": 7,
+    "avg_before_after": 3.12,
+    "median_before_after": 8.73,
+    "avg_abs_move": 9.64,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "NVDA",
+    "num_earnings": 7,
+    "avg_before_after": -1.22,
+    "median_before_after": -0.5,
+    "avg_abs_move": 2.0,
+    "pct_pos": 14.29,
+    "pct_neg": 85.71,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "NVO",
+    "num_earnings": 7,
+    "avg_before_after": -2.56,
+    "median_before_after": -2.17,
+    "avg_abs_move": 5.44,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "OKE",
+    "num_earnings": 4,
+    "avg_before_after": -1.9,
+    "median_before_after": -1.44,
+    "avg_abs_move": 2.86,
+    "pct_pos": 50.0,
+    "pct_neg": 50.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "OKLO",
+    "num_earnings": 5,
+    "avg_before_after": 1.78,
+    "median_before_after": -0.31,
+    "avg_abs_move": 12.71,
+    "pct_pos": 40.0,
+    "pct_neg": 60.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "PAA",
+    "num_earnings": 1,
+    "avg_before_after": -0.06,
+    "median_before_after": -0.06,
+    "avg_abs_move": 0.06,
+    "pct_pos": 0.0,
+    "pct_neg": 100.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "PAAS",
+    "num_earnings": 7,
+    "avg_before_after": 5.12,
+    "median_before_after": 3.88,
+    "avg_abs_move": 5.46,
+    "pct_pos": 85.71,
+    "pct_neg": 14.29,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "PAGP",
+    "num_earnings": 1,
+    "avg_before_after": -0.52,
+    "median_before_after": -0.52,
+    "avg_abs_move": 0.52,
+    "pct_pos": 0.0,
+    "pct_neg": 100.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "PFGC",
+    "num_earnings": 7,
+    "avg_before_after": 0.74,
+    "median_before_after": 2.43,
+    "avg_abs_move": 4.37,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "PH",
+    "num_earnings": 7,
+    "avg_before_after": 2.7,
+    "median_before_after": 2.31,
+    "avg_abs_move": 4.67,
+    "pct_pos": 85.71,
+    "pct_neg": 14.29,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "PONY",
+    "num_earnings": 1,
+    "avg_before_after": -19.75,
+    "median_before_after": -19.75,
+    "avg_abs_move": 19.75,
+    "pct_pos": 0.0,
+    "pct_neg": 100.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "PPL",
+    "num_earnings": 4,
+    "avg_before_after": -0.88,
+    "median_before_after": -0.95,
+    "avg_abs_move": 1.22,
+    "pct_pos": 25.0,
+    "pct_neg": 75.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "PS",
+    "num_earnings": 1,
+    "avg_before_after": 0.79,
+    "median_before_after": 0.79,
+    "avg_abs_move": 0.79,
+    "pct_pos": 100.0,
+    "pct_neg": 0.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "RKLB",
+    "num_earnings": 6,
+    "avg_before_after": 6.7,
+    "median_before_after": -0.12,
+    "avg_abs_move": 11.08,
+    "pct_pos": 50.0,
+    "pct_neg": 50.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "SE",
+    "num_earnings": 7,
+    "avg_before_after": 6.67,
+    "median_before_after": 10.19,
+    "avg_abs_move": 13.43,
+    "pct_pos": 71.43,
+    "pct_neg": 28.57,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "SHOP",
+    "num_earnings": 7,
+    "avg_before_after": 1.18,
+    "median_before_after": -2.89,
+    "avg_abs_move": 12.34,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "SMCI",
+    "num_earnings": 7,
+    "avg_before_after": -0.01,
+    "median_before_after": -0.97,
+    "avg_abs_move": 11.07,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "SNDK",
+    "num_earnings": 5,
+    "avg_before_after": 6.9,
+    "median_before_after": 9.21,
+    "avg_abs_move": 9.0,
     "pct_pos": 80.0,
     "pct_neg": 20.0,
     "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "SNPS",
+    "num_earnings": 7,
+    "avg_before_after": -9.82,
+    "median_before_after": -9.63,
+    "avg_abs_move": 10.52,
+    "pct_pos": 14.29,
+    "pct_neg": 85.71,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "SPG",
+    "num_earnings": 1,
+    "avg_before_after": 3.29,
+    "median_before_after": 3.29,
+    "avg_abs_move": 3.29,
+    "pct_pos": 100.0,
+    "pct_neg": 0.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "STN",
+    "num_earnings": 7,
+    "avg_before_after": 1.3,
+    "median_before_after": -1.83,
+    "avg_abs_move": 7.48,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "TD",
+    "num_earnings": 7,
+    "avg_before_after": 0.2,
+    "median_before_after": 0.3,
+    "avg_abs_move": 2.92,
+    "pct_pos": 71.43,
+    "pct_neg": 28.57,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "TGT",
+    "num_earnings": 7,
+    "avg_before_after": -5.25,
+    "median_before_after": -3.48,
+    "avg_abs_move": 7.0,
+    "pct_pos": 14.29,
+    "pct_neg": 85.71,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "TJX",
+    "num_earnings": 7,
+    "avg_before_after": 0.84,
+    "median_before_after": 0.65,
+    "avg_abs_move": 1.97,
+    "pct_pos": 85.71,
+    "pct_neg": 14.29,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "TKO",
+    "num_earnings": 8,
+    "avg_before_after": -0.11,
+    "median_before_after": -1.25,
+    "avg_abs_move": 3.77,
+    "pct_pos": 37.5,
+    "pct_neg": 62.5,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "TM",
+    "num_earnings": 3,
+    "avg_before_after": -0.85,
+    "median_before_after": -0.47,
+    "avg_abs_move": 0.85,
+    "pct_pos": 0.0,
+    "pct_neg": 100.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "TOL",
+    "num_earnings": 3,
+    "avg_before_after": 1.88,
+    "median_before_after": 0.19,
+    "avg_abs_move": 3.16,
+    "pct_pos": 66.67,
+    "pct_neg": 33.33,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "TPR",
+    "num_earnings": 7,
+    "avg_before_after": 1.52,
+    "median_before_after": 4.36,
+    "avg_abs_move": 9.16,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "TTWO",
+    "num_earnings": 7,
+    "avg_before_after": -0.81,
+    "median_before_after": -3.83,
+    "avg_abs_move": 7.13,
+    "pct_pos": 28.57,
+    "pct_neg": 71.43,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "UBER",
+    "num_earnings": 7,
+    "avg_before_after": -1.88,
+    "median_before_after": -3.49,
+    "avg_abs_move": 4.51,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "ULTA",
+    "num_earnings": 7,
+    "avg_before_after": 1.1,
+    "median_before_after": 7.09,
+    "avg_abs_move": 10.1,
+    "pct_pos": 57.14,
+    "pct_neg": 42.86,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "VG",
+    "num_earnings": 4,
+    "avg_before_after": -1.93,
+    "median_before_after": 7.2,
+    "avg_abs_move": 15.64,
+    "pct_pos": 75.0,
+    "pct_neg": 25.0,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "VRTX",
+    "num_earnings": 2,
+    "avg_before_after": 3.15,
+    "median_before_after": 3.15,
+    "avg_abs_move": 3.4,
+    "pct_pos": 50.0,
+    "pct_neg": 50.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "VST",
+    "num_earnings": 1,
+    "avg_before_after": -2.69,
+    "median_before_after": -2.69,
+    "avg_abs_move": 2.69,
+    "pct_pos": 0.0,
+    "pct_neg": 100.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "WB",
+    "num_earnings": 7,
+    "avg_before_after": 2.34,
+    "median_before_after": -1.81,
+    "avg_abs_move": 6.8,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "WBD",
+    "num_earnings": 7,
+    "avg_before_after": 0.95,
+    "median_before_after": -0.37,
+    "avg_abs_move": 6.09,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "WDC",
+    "num_earnings": 7,
+    "avg_before_after": 4.11,
+    "median_before_after": 4.63,
+    "avg_abs_move": 7.12,
+    "pct_pos": 85.71,
+    "pct_neg": 14.29,
+    "gamble_flag": "Yes"
+  },
+  {
+    "Ticker": "WMB",
+    "num_earnings": 3,
+    "avg_before_after": 4.45,
+    "median_before_after": 4.51,
+    "avg_abs_move": 4.45,
+    "pct_pos": 100.0,
+    "pct_neg": 0.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "WMT",
+    "num_earnings": 7,
+    "avg_before_after": -2.23,
+    "median_before_after": -2.87,
+    "avg_abs_move": 5.04,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "YPF",
+    "num_earnings": 4,
+    "avg_before_after": -1.84,
+    "median_before_after": -2.13,
+    "avg_abs_move": 2.93,
+    "pct_pos": 25.0,
+    "pct_neg": 75.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "ZIM",
+    "num_earnings": 5,
+    "avg_before_after": -5.44,
+    "median_before_after": -5.47,
+    "avg_abs_move": 5.8,
+    "pct_pos": 20.0,
+    "pct_neg": 80.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "ZM",
+    "num_earnings": 4,
+    "avg_before_after": 1.41,
+    "median_before_after": 2.51,
+    "avg_abs_move": 8.87,
+    "pct_pos": 50.0,
+    "pct_neg": 50.0,
+    "gamble_flag": "No"
+  },
+  {
+    "Ticker": "ZTO",
+    "num_earnings": 7,
+    "avg_before_after": -0.97,
+    "median_before_after": -1.4,
+    "avg_abs_move": 4.49,
+    "pct_pos": 42.86,
+    "pct_neg": 57.14,
+    "gamble_flag": "No"
   }
 ]
