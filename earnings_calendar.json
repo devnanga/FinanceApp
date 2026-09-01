@@ -1,905 +1,457 @@
 [
   {
-    "Earnings Date": "2026-08-03",
-    "Ticker": "PLTR",
-    "Market Cap": 301220000000,
-    "Market Cap Numeric": 301220000000.0,
+    "Earnings Date": "2026-09-01",
+    "Ticker": "PANW",
+    "Market Cap": 306690000000.0,
+    "Market Cap Numeric": 306690000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-03",
-    "Ticker": "MUFG",
-    "Market Cap": 253860000000,
-    "Market Cap Numeric": 253860000000.0,
+    "Earnings Date": "2026-09-01",
+    "Ticker": "DELL",
+    "Market Cap": 293630000000.0,
+    "Market Cap Numeric": 293630000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-03",
-    "Ticker": "VRTX",
-    "Market Cap": 119470000000,
-    "Market Cap Numeric": 119470000000.0,
+    "Earnings Date": "2026-09-01",
+    "Ticker": "MDT",
+    "Market Cap": 119920000000.0,
+    "Market Cap Numeric": 119920000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-01",
+    "Ticker": "CRDO",
+    "Market Cap": 41630000000.0,
+    "Market Cap Numeric": 41630000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-03",
-    "Ticker": "MAR",
-    "Market Cap": 91460000000,
-    "Market Cap Numeric": 91460000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-03",
-    "Ticker": "WMB",
-    "Market Cap": 86140000000,
-    "Market Cap Numeric": 86140000000.0,
+    "Earnings Date": "2026-09-01",
+    "Ticker": "MDB",
+    "Market Cap": 35750000000.0,
+    "Market Cap Numeric": 35750000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-03",
-    "Ticker": "FANG",
-    "Market Cap": 55910000000,
-    "Market Cap Numeric": 55910000000.0,
+    "Earnings Date": "2026-09-01",
+    "Ticker": "NIO",
+    "Market Cap": 9630000000.0,
+    "Market Cap Numeric": 9630000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-01",
+    "Ticker": "SBSW",
+    "Market Cap": 8250000000.0,
+    "Market Cap Numeric": 8250000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-01",
+    "Ticker": "GTLB",
+    "Market Cap": 7670000000.0,
+    "Market Cap Numeric": 7670000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-03",
-    "Ticker": "OKE",
-    "Market Cap": 55600000000,
-    "Market Cap Numeric": 55600000000.0,
+    "Earnings Date": "2026-09-01",
+    "Ticker": "SSL",
+    "Market Cap": 7560000000.0,
+    "Market Cap Numeric": 7560000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-01",
+    "Ticker": "MMED",
+    "Market Cap": 5310000000.0,
+    "Market Cap Numeric": 5310000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-02",
+    "Ticker": "AVGO",
+    "Market Cap": 1739560000000.0,
+    "Market Cap Numeric": 1739560000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-03",
-    "Ticker": "TKO",
-    "Market Cap": 35150000000,
-    "Market Cap Numeric": 35150000000.0,
+    "Earnings Date": "2026-09-02",
+    "Ticker": "SNOW",
+    "Market Cap": 113350000000.0,
+    "Market Cap Numeric": 113350000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-03",
-    "Ticker": "EC",
-    "Market Cap": 34130000000,
-    "Market Cap Numeric": 34130000000.0,
+    "Earnings Date": "2026-09-02",
+    "Ticker": "HPE",
+    "Market Cap": 68629999999.99999,
+    "Market Cap Numeric": 68629999999.9999,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-03",
-    "Ticker": "ON",
-    "Market Cap": 31290000000,
-    "Market Cap Numeric": 31290000000.0,
+    "Earnings Date": "2026-09-02",
+    "Ticker": "NTAP",
+    "Market Cap": 36260000000.0,
+    "Market Cap Numeric": 36260000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-04",
-    "Ticker": "SPCX",
-    "Market Cap": 1519480000000,
-    "Market Cap Numeric": 1519480000000.0,
+    "Earnings Date": "2026-09-02",
+    "Ticker": "FIVE",
+    "Market Cap": 13650000000.0,
+    "Market Cap Numeric": 13650000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-04",
-    "Ticker": "AMD",
-    "Market Cap": 790250000000,
-    "Market Cap Numeric": 790250000000.0,
+    "Earnings Date": "2026-09-02",
+    "Ticker": "BF-A",
+    "Market Cap": 12300000000.0,
+    "Market Cap Numeric": 12300000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-02",
+    "Ticker": "BF-B",
+    "Market Cap": 12300000000.0,
+    "Market Cap Numeric": 12300000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-02",
+    "Ticker": "NTSK",
+    "Market Cap": 6120000000.0,
+    "Market Cap Numeric": 6120000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-04",
-    "Ticker": "CAT",
-    "Market Cap": 382340000000,
-    "Market Cap Numeric": 382340000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-04",
-    "Ticker": "HSBC",
-    "Market Cap": 370680000000,
-    "Market Cap Numeric": 370680000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-04",
-    "Ticker": "MRK",
-    "Market Cap": 315570000000,
-    "Market Cap Numeric": 315570000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-04",
-    "Ticker": "ANET",
-    "Market Cap": 232810000000,
-    "Market Cap Numeric": 232810000000.0,
+    "Earnings Date": "2026-09-02",
+    "Ticker": "AGX",
+    "Market Cap": 5910000000.0,
+    "Market Cap Numeric": 5910000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-04",
-    "Ticker": "AMGN",
-    "Market Cap": 204480000000,
-    "Market Cap Numeric": 204480000000.0,
+    "Earnings Date": "2026-09-02",
+    "Ticker": "OLLI",
+    "Market Cap": 4580000000.0,
+    "Market Cap Numeric": 4580000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-03",
+    "Ticker": "CIEN",
+    "Market Cap": 52930000000.0,
+    "Market Cap Numeric": 52930000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-03",
+    "Ticker": "ZS",
+    "Market Cap": 29920000000.0,
+    "Market Cap Numeric": 29920000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-04",
-    "Ticker": "TM",
-    "Market Cap": 198090000000,
-    "Market Cap Numeric": 198090000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-04",
-    "Ticker": "MCD",
-    "Market Cap": 188450000000,
-    "Market Cap Numeric": 188450000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-04",
-    "Ticker": "GILD",
-    "Market Cap": 162830000000,
-    "Market Cap Numeric": 162830000000.0,
+    "Earnings Date": "2026-09-03",
+    "Ticker": "IOT",
+    "Market Cap": 23660000000.0,
+    "Market Cap Numeric": 23660000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-05",
-    "Ticker": "LLY",
-    "Market Cap": 1056030000000,
-    "Market Cap Numeric": 1056030000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-05",
-    "Ticker": "SNDK",
-    "Market Cap": 190740000000,
-    "Market Cap Numeric": 190740000000.0,
+    "Earnings Date": "2026-09-03",
+    "Ticker": "GWRE",
+    "Market Cap": 16820000000.0,
+    "Market Cap Numeric": 16820000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-05",
-    "Ticker": "WDC",
-    "Market Cap": 181720000000,
-    "Market Cap Numeric": 181720000000.0,
+    "Earnings Date": "2026-09-03",
+    "Ticker": "LULU",
+    "Market Cap": 14120000000.0,
+    "Market Cap Numeric": 14120000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-05",
-    "Ticker": "DIS",
-    "Market Cap": 170420000000,
-    "Market Cap Numeric": 170420000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-05",
-    "Ticker": "NVO",
-    "Market Cap": 158130000000,
-    "Market Cap Numeric": 158130000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-05",
-    "Ticker": "SHOP",
-    "Market Cap": 151840000000,
-    "Market Cap Numeric": 151840000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-05",
-    "Ticker": "UBER",
-    "Market Cap": 145770000000,
-    "Market Cap Numeric": 145770000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-05",
-    "Ticker": "APP",
-    "Market Cap": 136450000000,
-    "Market Cap Numeric": 136449999999.9999,
+    "Earnings Date": "2026-09-03",
+    "Ticker": "DOCU",
+    "Market Cap": 12510000000.0,
+    "Market Cap Numeric": 12510000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-05",
-    "Ticker": "CVS",
-    "Market Cap": 134440000000,
-    "Market Cap Numeric": 134440000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-05",
-    "Ticker": "MCK",
-    "Market Cap": 96840000000,
-    "Market Cap Numeric": 96840000000.0,
+    "Earnings Date": "2026-09-03",
+    "Ticker": "PATH",
+    "Market Cap": 9420000000.0,
+    "Market Cap Numeric": 9420000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-06",
-    "Ticker": "COP",
-    "Market Cap": 145170000000,
-    "Market Cap Numeric": 145170000000.0,
+    "Earnings Date": "2026-09-03",
+    "Ticker": "TTC",
+    "Market Cap": 9310000000.0,
+    "Market Cap Numeric": 9310000000.0,
     "Earnings Timing": "Before Market Open"
   },
   {
-    "Earnings Date": "2026-08-06",
-    "Ticker": "PH",
-    "Market Cap": 125770000000,
-    "Market Cap Numeric": 125770000000.0,
+    "Earnings Date": "2026-09-03",
+    "Ticker": "CPB",
+    "Market Cap": 7090000000.0,
+    "Market Cap Numeric": 7090000000.0,
     "Earnings Timing": "Before Market Open"
   },
   {
-    "Earnings Date": "2026-08-06",
-    "Ticker": "HWM",
-    "Market Cap": 114570000000,
-    "Market Cap Numeric": 114570000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-06",
-    "Ticker": "NET",
-    "Market Cap": 100410000000,
-    "Market Cap Numeric": 100410000000.0,
+    "Earnings Date": "2026-09-03",
+    "Ticker": "PL",
+    "Market Cap": 6960000000.0,
+    "Market Cap Numeric": 6960000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-06",
-    "Ticker": "CEG",
-    "Market Cap": 98290000000,
-    "Market Cap Numeric": 98290000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-06",
-    "Ticker": "DDOG",
-    "Market Cap": 97390000000,
-    "Market Cap Numeric": 97390000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-06",
-    "Ticker": "CNQ",
-    "Market Cap": 96450000000,
-    "Market Cap Numeric": 96450000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-06",
-    "Ticker": "MNST",
-    "Market Cap": 91490000000,
-    "Market Cap Numeric": 91490000000.0,
+    "Earnings Date": "2026-09-08",
+    "Ticker": "CASY",
+    "Market Cap": 27840000000.0,
+    "Market Cap Numeric": 27840000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-06",
-    "Ticker": "ABNB",
-    "Market Cap": 90790000000,
-    "Market Cap Numeric": 90790000000.0,
+    "Earnings Date": "2026-09-08",
+    "Ticker": "TTAN",
+    "Market Cap": 9400000000.0,
+    "Market Cap Numeric": 9400000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-06",
-    "Ticker": "WBD",
-    "Market Cap": 65410000000,
-    "Market Cap Numeric": 65410000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-07",
-    "Ticker": "VST",
-    "Market Cap": 52580000000,
-    "Market Cap Numeric": 52580000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-07",
-    "Ticker": "TTWO",
-    "Market Cap": 45840000000,
-    "Market Cap Numeric": 45840000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-07",
-    "Ticker": "PPL",
-    "Market Cap": 26480000000,
-    "Market Cap Numeric": 26480000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-07",
-    "Ticker": "YPF",
-    "Market Cap": 20080000000,
-    "Market Cap Numeric": 20080000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-07",
-    "Ticker": "PAGP",
-    "Market Cap": 19810000000,
-    "Market Cap Numeric": 19810000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-07",
-    "Ticker": "PAA",
-    "Market Cap": 17070000000,
-    "Market Cap Numeric": 17070000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-07",
-    "Ticker": "EMA",
-    "Market Cap": 16110000000,
-    "Market Cap Numeric": 16110000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-07",
-    "Ticker": "OKLO",
-    "Market Cap": 7170000000,
-    "Market Cap Numeric": 7170000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-07",
-    "Ticker": "FLR",
-    "Market Cap": 7010000000,
-    "Market Cap Numeric": 7010000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-07",
-    "Ticker": "MBGL",
-    "Market Cap": 6280000000,
-    "Market Cap Numeric": 6280000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-10",
-    "Ticker": "SPG",
-    "Market Cap": 74310000000,
-    "Market Cap Numeric": 74310000000.0,
+    "Earnings Date": "2026-09-08",
+    "Ticker": "GME",
+    "Market Cap": 8230000000.0,
+    "Market Cap Numeric": 8230000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-10",
-    "Ticker": "B",
-    "Market Cap": 62600000000,
-    "Market Cap Numeric": 62600000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-10",
-    "Ticker": "FERG",
-    "Market Cap": 48500000000,
-    "Market Cap Numeric": 48500000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-10",
-    "Ticker": "RKLB",
-    "Market Cap": 42130000000,
-    "Market Cap Numeric": 42130000000.0,
+    "Earnings Date": "2026-09-08",
+    "Ticker": "BRZE",
+    "Market Cap": 3830000000.0,
+    "Market Cap Numeric": 3830000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-10",
-    "Ticker": "ASTS",
-    "Market Cap": 24650000000,
-    "Market Cap Numeric": 24650000000.0,
+    "Earnings Date": "2026-09-08",
+    "Ticker": "ABM",
+    "Market Cap": 2730000000.0,
+    "Market Cap Numeric": 2730000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-08",
+    "Ticker": "UNFI",
+    "Market Cap": 2650000000.0,
+    "Market Cap Numeric": 2650000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-08",
+    "Ticker": "INNV",
+    "Market Cap": 1470000000.0,
+    "Market Cap Numeric": 1470000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-10",
-    "Ticker": "KSPI",
-    "Market Cap": 17480000000,
-    "Market Cap Numeric": 17480000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-10",
-    "Ticker": "JBS",
-    "Market Cap": 14700000000,
-    "Market Cap Numeric": 14700000000.0,
+    "Earnings Date": "2026-09-08",
+    "Ticker": "AVO",
+    "Market Cap": 1120000000.0,
+    "Market Cap Numeric": 1120000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-10",
-    "Ticker": "EMBJ",
-    "Market Cap": 12620000000,
-    "Market Cap Numeric": 12620000000.0,
+    "Earnings Date": "2026-09-09",
+    "Ticker": "SUNB",
+    "Market Cap": 28960000000.0,
+    "Market Cap Numeric": 28960000000.0,
     "Earnings Timing": "Before Market Open"
   },
   {
-    "Earnings Date": "2026-08-10",
-    "Ticker": "AXSM",
-    "Market Cap": 10860000000,
-    "Market Cap Numeric": 10860000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-10",
-    "Ticker": "ACM",
-    "Market Cap": 9610000000,
-    "Market Cap Numeric": 9610000000.0,
+    "Earnings Date": "2026-09-09",
+    "Ticker": "COO",
+    "Market Cap": 13780000000.0,
+    "Market Cap Numeric": 13780000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-11",
-    "Ticker": "SE",
-    "Market Cap": 63020000000,
-    "Market Cap Numeric": 63020000000.0,
+    "Earnings Date": "2026-09-09",
+    "Ticker": "SAIL",
+    "Market Cap": 11560000000.0,
+    "Market Cap Numeric": 11560000000.0,
     "Earnings Timing": "Before Market Open"
   },
   {
-    "Earnings Date": "2026-08-11",
-    "Ticker": "LITE",
-    "Market Cap": 60680000000,
-    "Market Cap Numeric": 60680000000.0,
+    "Earnings Date": "2026-09-09",
+    "Ticker": "CHWY",
+    "Market Cap": 9630000000.0,
+    "Market Cap Numeric": 9630000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-09",
+    "Ticker": "CNM",
+    "Market Cap": 8310000000.000001,
+    "Market Cap Numeric": 8310000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-09",
+    "Ticker": "AVAV",
+    "Market Cap": 7490000000.0,
+    "Market Cap Numeric": 7490000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-11",
-    "Ticker": "CAH",
-    "Market Cap": 55180000000,
-    "Market Cap Numeric": 55180000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-11",
-    "Ticker": "CRWV",
-    "Market Cap": 46790000000,
-    "Market Cap Numeric": 46790000000.0,
+    "Earnings Date": "2026-09-09",
+    "Ticker": "NAVN",
+    "Market Cap": 7300000000.0,
+    "Market Cap Numeric": 7300000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-11",
-    "Ticker": "FNV",
-    "Market Cap": 41390000000,
-    "Market Cap Numeric": 41390000000.0,
+    "Earnings Date": "2026-09-09",
+    "Ticker": "SIG",
+    "Market Cap": 3240000000.0,
+    "Market Cap Numeric": 3240000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-09",
+    "Ticker": "AEO",
+    "Market Cap": 2790000000.0,
+    "Market Cap Numeric": 2790000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-11",
-    "Ticker": "ESLT",
-    "Market Cap": 38890000000,
-    "Market Cap Numeric": 38890000000.0,
+    "Earnings Date": "2026-09-09",
+    "Ticker": "ASO",
+    "Market Cap": 2660000000.0,
+    "Market Cap Numeric": 2660000000.0,
     "Earnings Timing": "Before Market Open"
   },
   {
-    "Earnings Date": "2026-08-11",
-    "Ticker": "VG",
-    "Market Cap": 32500000000,
-    "Market Cap Numeric": 32500000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-11",
-    "Ticker": "SMCI",
-    "Market Cap": 18530000000,
-    "Market Cap Numeric": 18530000000.0,
+    "Earnings Date": "2026-09-10",
+    "Ticker": "ORCL",
+    "Market Cap": 423950000000.0,
+    "Market Cap Numeric": 423950000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-11",
-    "Ticker": "ARMK",
-    "Market Cap": 14920000000,
-    "Market Cap Numeric": 14920000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-11",
-    "Ticker": "QNT",
-    "Market Cap": 14520000000,
-    "Market Cap Numeric": 14520000000.0,
+    "Earnings Date": "2026-09-10",
+    "Ticker": "ADBE",
+    "Market Cap": 114370000000.0,
+    "Market Cap Numeric": 114370000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-12",
-    "Ticker": "CSCO",
-    "Market Cap": 456650000000,
-    "Market Cap Numeric": 456650000000.0,
+    "Earnings Date": "2026-09-10",
+    "Ticker": "DSGX",
+    "Market Cap": 6980000000.0,
+    "Market Cap Numeric": 6980000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-12",
-    "Ticker": "CBRS",
-    "Market Cap": 60980000000,
-    "Market Cap Numeric": 60980000000.0,
+    "Earnings Date": "2026-09-10",
+    "Ticker": "M",
+    "Market Cap": 5780000000.0,
+    "Market Cap Numeric": 5780000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-10",
+    "Ticker": "TEN",
+    "Market Cap": 1250000000.0,
+    "Market Cap Numeric": 1250000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-11",
+    "Ticker": "KR",
+    "Market Cap": 34710000000.0,
+    "Market Cap Numeric": 34710000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-14",
+    "Ticker": "KMTS",
+    "Market Cap": 1510000000.0,
+    "Market Cap Numeric": 1510000000.0,
     "Earnings Timing": "After Market Close"
   },
   {
-    "Earnings Date": "2026-08-12",
-    "Ticker": "COHR",
-    "Market Cap": 56370000000,
-    "Market Cap Numeric": 56370000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-12",
-    "Ticker": "NBIS",
-    "Market Cap": 53500000000,
-    "Market Cap Numeric": 53500000000.0,
+    "Earnings Date": "2026-09-15",
+    "Ticker": "FPS",
+    "Market Cap": 9220000000.0,
+    "Market Cap Numeric": 9220000000.0,
     "Earnings Timing": "Before Market Open"
   },
   {
-    "Earnings Date": "2026-08-12",
-    "Ticker": "AMCR",
-    "Market Cap": 21280000000,
-    "Market Cap Numeric": 21280000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-12",
-    "Ticker": "PAAS",
-    "Market Cap": 18430000000,
-    "Market Cap Numeric": 18430000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-12",
-    "Ticker": "PFGC",
-    "Market Cap": 17960000000,
-    "Market Cap Numeric": 17960000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-12",
-    "Ticker": "EAT",
-    "Market Cap": 9660000000,
-    "Market Cap Numeric": 9660000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-12",
-    "Ticker": "CAE",
-    "Market Cap": 8510000000,
-    "Market Cap Numeric": 8510000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-12",
-    "Ticker": "STN",
-    "Market Cap": 8170000000,
-    "Market Cap Numeric": 8170000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-13",
-    "Ticker": "AMAT",
-    "Market Cap": 411440000000,
-    "Market Cap Numeric": 411440000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-13",
-    "Ticker": "JD",
-    "Market Cap": 40060000000,
-    "Market Cap Numeric": 40060000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-13",
-    "Ticker": "BAP",
-    "Market Cap": 31480000000,
-    "Market Cap Numeric": 31480000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-13",
-    "Ticker": "TPR",
-    "Market Cap": 31440000000,
-    "Market Cap Numeric": 31440000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-13",
-    "Ticker": "PS",
-    "Market Cap": 14020000000,
-    "Market Cap Numeric": 14020000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-13",
-    "Ticker": "AIT",
-    "Market Cap": 13010000000,
-    "Market Cap Numeric": 13010000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-13",
-    "Ticker": "BIRK",
-    "Market Cap": 7150000000,
-    "Market Cap Numeric": 7150000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-13",
-    "Ticker": "XE",
-    "Market Cap": 7070000000,
-    "Market Cap Numeric": 7070000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-13",
-    "Ticker": "LGN",
-    "Market Cap": 7050000000,
-    "Market Cap Numeric": 7050000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-13",
-    "Ticker": "GDS",
-    "Market Cap": 6370000000,
-    "Market Cap Numeric": 6370000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-14",
-    "Ticker": "RMIX",
-    "Market Cap": 1270000000,
-    "Market Cap Numeric": 1270000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-17",
-    "Ticker": "FN",
-    "Market Cap": 16340000000,
-    "Market Cap Numeric": 16340000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-18",
-    "Ticker": "HD",
-    "Market Cap": 339040000000,
-    "Market Cap Numeric": 339040000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-18",
-    "Ticker": "KEYS",
-    "Market Cap": 55010000000,
-    "Market Cap Numeric": 55010000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-18",
-    "Ticker": "BIDU",
-    "Market Cap": 31460000000,
-    "Market Cap Numeric": 31460000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-18",
-    "Ticker": "AS",
-    "Market Cap": 20930000000,
-    "Market Cap Numeric": 20930000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-18",
-    "Ticker": "HSAI",
-    "Market Cap": 18520000000,
-    "Market Cap Numeric": 18520000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-18",
-    "Ticker": "TOL",
-    "Market Cap": 14060000000,
-    "Market Cap Numeric": 14060000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-18",
-    "Ticker": "ZTO",
-    "Market Cap": 13800000000,
-    "Market Cap Numeric": 13800000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-18",
-    "Ticker": "KLAR",
-    "Market Cap": 7470000000,
-    "Market Cap Numeric": 7470000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-18",
-    "Ticker": "MRCY",
-    "Market Cap": 6350000000,
-    "Market Cap Numeric": 6350000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-18",
-    "Ticker": "PONY",
-    "Market Cap": 2840000000,
-    "Market Cap Numeric": 2840000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-19",
-    "Ticker": "ADI",
-    "Market Cap": 176270000000,
-    "Market Cap Numeric": 176270000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-19",
-    "Ticker": "TJX",
-    "Market Cap": 173990000000,
-    "Market Cap Numeric": 173990000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-19",
-    "Ticker": "LOW",
-    "Market Cap": 118900000000,
-    "Market Cap Numeric": 118900000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-19",
-    "Ticker": "TGT",
-    "Market Cap": 67830000000,
-    "Market Cap Numeric": 67830000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-19",
-    "Ticker": "EL",
-    "Market Cap": 30640000000,
-    "Market Cap Numeric": 30640000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-19",
-    "Ticker": "NDSN",
-    "Market Cap": 16860000000,
-    "Market Cap Numeric": 16860000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-19",
-    "Ticker": "BILL",
-    "Market Cap": 4700000000,
-    "Market Cap Numeric": 4700000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-19",
-    "Ticker": "ZIM",
-    "Market Cap": 3140000000,
-    "Market Cap Numeric": 3140000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-19",
-    "Ticker": "WB",
-    "Market Cap": 1290000000,
-    "Market Cap Numeric": 1290000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-20",
-    "Ticker": "WMT",
-    "Market Cap": 881040000000,
-    "Market Cap Numeric": 881040000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-20",
-    "Ticker": "DE",
-    "Market Cap": 163330000000,
-    "Market Cap Numeric": 163330000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-20",
-    "Ticker": "AAP",
-    "Market Cap": 3360000000,
-    "Market Cap Numeric": 3360000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-20",
-    "Ticker": "ATHM",
-    "Market Cap": 2690000000,
-    "Market Cap Numeric": 2690000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-21",
-    "Ticker": "BJ",
-    "Market Cap": 12400000000,
-    "Market Cap Numeric": 12400000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-25",
-    "Ticker": "BMO",
-    "Market Cap": 126920000000,
-    "Market Cap Numeric": 126920000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-25",
-    "Ticker": "BNS",
-    "Market Cap": 108830000000,
-    "Market Cap Numeric": 108830000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-25",
-    "Ticker": "INTU",
-    "Market Cap": 87090000000,
-    "Market Cap Numeric": 87090000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-25",
-    "Ticker": "ZM",
-    "Market Cap": 28810000000,
-    "Market Cap Numeric": 28810000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-26",
-    "Ticker": "NVDA",
-    "Market Cap": 5000690000000,
-    "Market Cap Numeric": 5000690000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-26",
-    "Ticker": "SNPS",
-    "Market Cap": 75070000000,
-    "Market Cap Numeric": 75070000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-26",
-    "Ticker": "A",
-    "Market Cap": 39480000000,
-    "Market Cap Numeric": 39480000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-26",
-    "Ticker": "ANF",
-    "Market Cap": 4840000000,
-    "Market Cap Numeric": 4840000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-27",
-    "Ticker": "TD",
-    "Market Cap": 204680000000,
-    "Market Cap Numeric": 204680000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-27",
-    "Ticker": "DG",
-    "Market Cap": 28170000000,
-    "Market Cap Numeric": 28170000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-27",
-    "Ticker": "ULTA",
-    "Market Cap": 22970000000,
-    "Market Cap Numeric": 22970000000.0,
-    "Earnings Timing": "After Market Close"
-  },
-  {
-    "Earnings Date": "2026-08-27",
-    "Ticker": "BBY",
-    "Market Cap": 17970000000,
-    "Market Cap Numeric": 17970000000.0,
-    "Earnings Timing": "Before Market Open"
-  },
-  {
-    "Earnings Date": "2026-08-27",
-    "Ticker": "CSIQ",
-    "Market Cap": 1050000000,
+    "Earnings Date": "2026-09-16",
+    "Ticker": "LUXE",
+    "Market Cap": 1050000000.0,
     "Market Cap Numeric": 1050000000.0,
     "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-21",
+    "Ticker": "ABVX",
+    "Market Cap": 9660000000.0,
+    "Market Cap Numeric": 9660000000.0,
+    "Earnings Timing": "After Market Close"
+  },
+  {
+    "Earnings Date": "2026-09-22",
+    "Ticker": "AZO",
+    "Market Cap": 48830000000.0,
+    "Market Cap Numeric": 48830000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-22",
+    "Ticker": "WOR",
+    "Market Cap": 2810000000.0,
+    "Market Cap Numeric": 2810000000.0,
+    "Earnings Timing": "After Market Close"
+  },
+  {
+    "Earnings Date": "2026-09-22",
+    "Ticker": "MLKN",
+    "Market Cap": 1540000000.0,
+    "Market Cap Numeric": 1540000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-23",
+    "Ticker": "GIS",
+    "Market Cap": 22310000000.0,
+    "Market Cap Numeric": 22310000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-24",
+    "Ticker": "COST",
+    "Market Cap": 419970000000.0,
+    "Market Cap Numeric": 419970000000.0,
+    "Earnings Timing": "After Market Close"
+  },
+  {
+    "Earnings Date": "2026-09-24",
+    "Ticker": "DRI",
+    "Market Cap": 24330000000.0,
+    "Market Cap Numeric": 24330000000.0,
+    "Earnings Timing": "Before Market Open"
+  },
+  {
+    "Earnings Date": "2026-09-25",
+    "Ticker": "IVA",
+    "Market Cap": 1050000000.0,
+    "Market Cap Numeric": 1050000000.0,
+    "Earnings Timing": "After Market Close"
   }
 ]
